@@ -1,0 +1,20 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="Backend.Back_end_MisionTic.Secciones.reportes.views.Back_end_MisionTic" />
+          <option value="Backend.Back_end_MisionTic.Secciones.reportes.views.*" />
+          <option value="Backend.Back_end_MisionTic.Secciones.reportes.functions.*" />
+          <option value="Backend.Back_end_MisionTic.Back_end_MisionTic.settings.*" />
+          <option value="docx.enum.text.*" />
+          <option value="docx.enum.section.*" />
+          <option value="appUCaldasVirtual.core.reports.Controller.ReportsController.config" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="Stylelint" enabled="true" level="ERROR" enabled_by_default="true" />
+  </profile>
+</component>
