@@ -1,9 +1,11 @@
 from django.urls import path
-from . import views
-from .views import ItemListCreate, ItemDetail
+from .views import StudentList, StudentDetail, CourseList, CourseDetail, AttendanceList, AttendanceDetail
 
 urlpatterns = [
-    path('', views.home, name='home'),
-    path('api/items/', ItemListCreate.as_view(), name='item-list-create'),
-    path('api/items/<int:pk>/', ItemDetail.as_view(), name='item-detail'),
+    path('students/<str:source>/', StudentList.as_view(), name='student-list'),
+    path('students/<str:source>/<str:username>/', StudentDetail.as_view(), name='student-detail'),
+    path('courses/<str:source>/', CourseList.as_view(), name='course-list'),
+    path('courses/<str:source>/<str:param>/', CourseDetail.as_view(), name='course-detail'),
+    path('attendance/<str:source>/', AttendanceList.as_view(), name='attendance-list'),
+    path('attendance/<str:source>/<str:param>/', AttendanceDetail.as_view(), name='attendance-detail'),
 ]

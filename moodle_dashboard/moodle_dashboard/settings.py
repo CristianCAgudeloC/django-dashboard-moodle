@@ -99,6 +99,14 @@ DATABASES = {
         'PASSWORD': config('DB_PASSWORD'),
         'HOST': config('DB_HOST'),
         'PORT': config('DB_PORT'),
+    },
+    'moodle': {
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': config('MOODLE_DB_NAME'),
+        'USER': config('MOODLE_DB_USER'),
+        'PASSWORD': config('MOODLE_DB_PASSWORD'),
+        'HOST': config('MOODLE_DB_HOST'),
+        'PORT': config('MOODLE_DB_PORT'),
     }
 }
 
@@ -127,14 +135,20 @@ if DEBUG:
         'disable_existing_loggers': False,
         'handlers': {
             'console': {
-                'level': 'DEBUG',
+                'level': 'ERROR',
                 'class': 'logging.StreamHandler',
             },
         },
         'loggers': {
             'django': {
                 'handlers': ['console'],
-                'level': 'DEBUG',
+                'level': 'ERROR',
+                'propagate': True,
+            },
+            'django.db.backends': {
+                'handlers': ['console'],
+                'level': 'ERROR',
+                'propagate': False,
             },
         },
     }
@@ -154,6 +168,11 @@ else:
                 'handlers': ['file'],
                 'level': 'WARNING',
                 'propagate': True,
+            },
+            'django.db.backends': {
+                'handlers': ['file'],
+                'level': 'ERROR',
+                'propagate': False,
             },
         },
     }
@@ -176,6 +195,7 @@ USE_TZ = True
 
 STATIC_URL = 'static/'
 STATICFILES_DIRS = [BASE_DIR / 'static']
+DATA_DIR = BASE_DIR / 'data'
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field

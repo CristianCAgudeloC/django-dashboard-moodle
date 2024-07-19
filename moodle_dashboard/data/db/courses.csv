@@ -1,0 +1,1107 @@
+id,fullname,shortname,student_count
+2,Aula de Examen para beneficiarios ,AEB,8
+12,Aula Base Ingles,ABI-MTIC,1
+14,Aula Base Fundamentos de Programación,ABFP-MTIC,1
+15,Aula Base Habilidades Personales e Inserción Laboral,AB-HPIL,1
+18,Aula Base Ingles - Ciclo 2,ABI-MTIC-C2,1
+23,Aula Base Ingles - Ciclo 3,ABI-MTIC-C3,1
+25,AULA BASE INGLES - CICLO 4,ABI-MTIC-C4,1
+27,AULA BASE DESARROLLO DE APLICACIONES WEB,ABDAW-MTIC,1
+28,AULA BASE DESARROLLO DE APLICACIONES MÓVILES,ABDAM-MTIC,1
+29,Aula Base Ingles,ABI-MTIC-2022,1
+31,Aula Base Fundamentos de Programación,ABFP-MTIC-2022,5
+32,Aula Base Ingles - Ciclo 2,ABI-MTIC-C2-2022,1
+33,Aula Base Java,ABJ-MTIC-2022,4
+34,Aula Base Ingles - Ciclo 3,ABI-MTIC-C3-2022,1
+35,AULA BASE DESARROLLO DE SOFTWARE – CICLO 3,AB-DS-C3-2022,4
+37,AULA BASE DESARROLLO DE APLICACIONES WEB,ABDAW-MTIC-2022,4
+38,AULA BASE INGLES - CICLO 4,ABI-MTIC-C4-2022,1
+39,Aula Base Habilidades Personales e Inserción Laboral,AB-HPIL-2022,2
+40,Aula Base Habilidades Personales e Inserción Laboral - Ciclo 2,AB-HPIL-C2-2022,2
+41,AULA BASE HABILIDADES PERSONALES E INSERCIÓN LABORAL - CICLO 3,AB-HPIL-C3-2022,2
+45,Aula Prueba - Examen Suficiencia,AP-ES,23
+71,Pruebas de Suficiencia - Grupo 1,PS-G1,900
+72,Pruebas de Suficiencia - Grupo 2,PS-G2,900
+73,Pruebas de Suficiencia - Grupo 3,PS-G3,900
+74,Pruebas de Suficiencia - Grupo 4,PS-G4,900
+75,Pruebas de Suficiencia - Grupo 5,PS-G5,900
+76,Pruebas de Suficiencia - Grupo 6,PS-G6,758
+127,AULA BASE DESARROLLO DE APLICACIONES MÓVILES,ABDAM-MTIC-2022,2
+128,AULA BASE HABILIDADES PERSONALES E INSERCIÓN LABORAL - CICLO 4,AB-HPIL-C4-2022,2
+129,Inglés - Ciclo 1 - Grupo 1,IN-C1-P1-1,72
+130,Inglés - Ciclo 1 - Grupo 2,IN-C1-P1-2,72
+131,Inglés - Ciclo 1 - Grupo 3,IN-C1-P1-3,72
+132,Inglés - Ciclo 1 - Grupo 4,IN-C1-P1-4,72
+133,Inglés - Ciclo 1 - Grupo 5,IN-C1-P1-5,71
+134,Inglés - Ciclo 1 - Grupo 6,IN-C1-P1-6,72
+135,Inglés - Ciclo 1 - Grupo 7,IN-C1-P1-7,61
+136,Inglés - Ciclo 1 - Grupo 8,IN-C1-P1-8,61
+137,Inglés - Ciclo 1 - Grupo 9,IN-C1-P1-9,64
+138,Inglés - Ciclo 1 - Grupo 10,IN-C1-P1-10,65
+139,Inglés - Ciclo 1 - Grupo 11,IN-C1-P1-11,67
+140,Inglés - Ciclo 1 - Grupo 12,IN-C1-P1-12,73
+141,Inglés - Ciclo 1 - Grupo 13,IN-C1-P1-13,64
+142,Inglés - Ciclo 1 - Grupo 14,IN-C1-P1-14,72
+143,Inglés - Ciclo 1 - Grupo 15,IN-C1-P1-15,72
+144,Inglés - Ciclo 1 - Grupo 16,IN-C1-P1-16,72
+145,Inglés - Ciclo 1 - Grupo 17,IN-C1-P1-17,72
+146,Inglés - Ciclo 1 - Grupo 18,IN-C1-P1-18,72
+147,Inglés - Ciclo 1 - Grupo 19,IN-C1-P1-19,73
+148,Inglés - Ciclo 1 - Grupo 20,IN-C1-P1-20,72
+149,Inglés - Ciclo 1 - Grupo 21,IN-C1-P1-21,72
+150,Inglés - Ciclo 1 - Grupo 22,IN-C1-P1-22,72
+151,Inglés - Ciclo 1 - Grupo 23,IN-C1-P1-23,72
+152,Inglés - Ciclo 1 - Grupo 24,IN-C1-P1-24,71
+153,Inglés - Ciclo 1 - Grupo 25,IN-C1-P1-25,63
+154,Inglés - Ciclo 1 - Grupo 26,IN-C1-P1-26,72
+155,Inglés - Ciclo 1 - Grupo 27,IN-C1-P1-27,62
+156,Inglés - Ciclo 1 - Grupo 28,IN-C1-P1-28,72
+157,Inglés - Ciclo 1 - Grupo 29,IN-C1-P1-29,72
+158,Inglés - Ciclo 1 - Grupo 30,IN-C1-P1-30,72
+159,Inglés - Ciclo 1 - Grupo 31,IN-C1-P1-31,72
+160,Inglés - Ciclo 1 - Grupo 32,IN-C1-P1-32,72
+161,Inglés - Ciclo 1 - Grupo 33,IN-C1-P1-33,72
+162,Inglés - Ciclo 1 - Grupo 34,IN-C1-P1-34,63
+163,Inglés - Ciclo 1 - Grupo 35,IN-C1-P1-35,65
+164,Inglés - Ciclo 1 - Grupo 36,IN-C1-P1-36,62
+165,Inglés - Ciclo 1 - Grupo 37,IN-C1-P1-37,72
+166,Inglés - Ciclo 1 - Grupo 38,IN-C1-P1-38,70
+167,Inglés - Ciclo 1 - Grupo 39,IN-C1-P1-39,62
+168,Inglés - Ciclo 1 - Grupo 40,IN-C1-P1-40,72
+169,Inglés - Ciclo 1 - Grupo 41,IN-C1-P1-41,64
+170,Inglés - Ciclo 1 - Grupo 42,IN-C1-P1-42,60
+171,Inglés - Ciclo 1 - Grupo 43,IN-C1-P1-43,72
+172,Inglés - Ciclo 1 - Grupo 44,IN-C1-P1-44,72
+173,Inglés - Ciclo 1 - Grupo 45,IN-C1-P1-45,72
+174,Inglés - Ciclo 1 - Grupo 46,IN-C1-P1-46,62
+175,Inglés - Ciclo 1 - Grupo 47,IN-C1-P1-47,61
+176,Inglés - Ciclo 1 - Grupo 48,IN-C1-P1-48,66
+177,Inglés - Ciclo 1 - Grupo 49,IN-C1-P1-49,64
+178,Inglés - Ciclo 1 - Grupo 50,IN-C1-P1-50,72
+179,Inglés - Ciclo 1 - Grupo 51,IN-C1-P1-51,72
+180,Inglés - Ciclo 1 - Grupo 52,IN-C1-P1-52,67
+181,Inglés - Ciclo 1 - Grupo 53,IN-C1-P1-53,72
+182,Inglés - Ciclo 1 - Grupo 54,IN-C1-P1-54,72
+183,Inglés - Ciclo 1 - Grupo 55,IN-C1-P1-55,68
+184,Inglés - Ciclo 1 - Grupo 56,IN-C1-P1-56,72
+185,Inglés - Ciclo 1 - Grupo 57,IN-C1-P1-57,72
+186,Inglés - Ciclo 1 - Grupo 58,IN-C1-P1-58,72
+187,Inglés - Ciclo 1 - Grupo 59,IN-C1-P1-59,72
+188,Inglés - Ciclo 1 - Grupo 60,IN-C1-P1-60,72
+189,Inglés - Ciclo 1 - Grupo 61,IN-C1-P1-61,64
+190,Inglés - Ciclo 1 - Grupo 62,IN-C1-P1-62,62
+191,Inglés - Ciclo 1 - Grupo 63,IN-C1-P1-63,62
+192,Inglés - Ciclo 1 - Grupo 64,IN-C1-P1-64,72
+193,Inglés - Ciclo 1 - Grupo 65,IN-C1-P1-65,71
+194,Inglés - Ciclo 1 - Grupo 66,IN-C1-P1-66,72
+195,Inglés - Ciclo 1 - Grupo 67,IN-C1-P1-67,72
+196,Inglés - Ciclo 1 - Grupo 68,IN-C1-P1-68,72
+197,Inglés - Ciclo 1 - Grupo 69,IN-C1-P1-69,72
+198,Inglés - Ciclo 1 - Grupo 70,IN-C1-P1-70,72
+199,Inglés - Ciclo 1 - Grupo 71,IN-C1-P1-71,72
+200,Inglés - Ciclo 1 - Grupo 72,IN-C1-P1-72,72
+201,Inglés - Ciclo 1 - Grupo 73,IN-C1-P1-73,72
+202,Inglés - Ciclo 1 - Grupo 74,IN-C1-P1-74,72
+203,Inglés - Ciclo 1 - Grupo 75,IN-C1-P1-75,71
+204,Inglés - Ciclo 1 - Grupo 76,IN-C1-P1-76,72
+205,Inglés - Ciclo 1 - Grupo 77,IN-C1-P1-77,66
+206,Inglés - Ciclo 1 - Grupo 78,IN-C1-P1-78,67
+207,Fundamentos de Programación - Ciclo 1 - Grupo 1,FP-C1-P1-1,63
+208,Fundamentos de Programación - Ciclo 1 - Grupo 2,FP-C1-P1-2,61
+209,Fundamentos de Programación - Ciclo 1 - Grupo 3,FP-C1-P1-3,71
+210,Fundamentos de Programación - Ciclo 1 - Grupo 4,FP-C1-P1-4,60
+211,Fundamentos de Programación - Ciclo 1 - Grupo 5,FP-C1-P1-5,64
+212,Fundamentos de Programación - Ciclo 1 - Grupo 6,FP-C1-P1-6,72
+213,Fundamentos de Programación - Ciclo 1 - Grupo 7,FP-C1-P1-7,72
+214,Fundamentos de Programación - Ciclo 1 - Grupo 8,FP-C1-P1-8,72
+215,Fundamentos de Programación - Ciclo 1 - Grupo 9,FP-C1-P1-9,72
+216,Fundamentos de Programación - Ciclo 1 - Grupo 10,FP-C1-P1-10,72
+217,Fundamentos de Programación - Ciclo 1 - Grupo 11,FP-C1-P1-11,71
+218,Fundamentos de Programación - Ciclo 1 - Grupo 12,FP-C1-P1-12,71
+219,Fundamentos de Programación - Ciclo 1 - Grupo 13,FP-C1-P1-13,72
+220,Fundamentos de Programación - Ciclo 1 - Grupo 14,FP-C1-P1-14,72
+221,Fundamentos de Programación - Ciclo 1 - Grupo 15,FP-C1-P1-15,61
+222,Fundamentos de Programación - Ciclo 1 - Grupo 16,FP-C1-P1-16,67
+223,Fundamentos de Programación - Ciclo 1 - Grupo 17,FP-C1-P1-17,63
+224,Fundamentos de Programación - Ciclo 1 - Grupo 18,FP-C1-P1-18,72
+225,Fundamentos de Programación - Ciclo 1 - Grupo 19,FP-C1-P1-19,72
+226,Fundamentos de Programación - Ciclo 1 - Grupo 20,FP-C1-P1-20,72
+227,Fundamentos de Programación - Ciclo 1 - Grupo 21,FP-C1-P1-21,71
+228,Fundamentos de Programación - Ciclo 1 - Grupo 22,FP-C1-P1-22,72
+229,Fundamentos de Programación - Ciclo 1 - Grupo 23,FP-C1-P1-23,72
+230,Fundamentos de Programación - Ciclo 1 - Grupo 24,FP-C1-P1-24,72
+231,Fundamentos de Programación - Ciclo 1 - Grupo 25,FP-C1-P1-25,71
+232,Fundamentos de Programación - Ciclo 1 - Grupo 26,FP-C1-P1-26,72
+233,Fundamentos de Programación - Ciclo 1 - Grupo 27,FP-C1-P1-27,72
+234,Fundamentos de Programación - Ciclo 1 - Grupo 28,FP-C1-P1-28,72
+235,Fundamentos de Programación - Ciclo 1 - Grupo 29,FP-C1-P1-29,60
+236,Fundamentos de Programación - Ciclo 1 - Grupo 30,FP-C1-P1-30,60
+237,Fundamentos de Programación - Ciclo 1 - Grupo 31,FP-C1-P1-31,59
+238,Fundamentos de Programación - Ciclo 1 - Grupo 32,FP-C1-P1-32,72
+239,Fundamentos de Programación - Ciclo 1 - Grupo 33,FP-C1-P1-33,67
+240,Fundamentos de Programación - Ciclo 1 - Grupo 34,FP-C1-P1-34,60
+241,Fundamentos de Programación - Ciclo 1 - Grupo 35,FP-C1-P1-35,72
+242,Fundamentos de Programación - Ciclo 1 - Grupo 36,FP-C1-P1-36,72
+243,Fundamentos de Programación - Ciclo 1 - Grupo 37,FP-C1-P1-37,60
+244,Fundamentos de Programación - Ciclo 1 - Grupo 38,FP-C1-P1-38,72
+245,Fundamentos de Programación - Ciclo 1 - Grupo 39,FP-C1-P1-39,74
+246,Fundamentos de Programación - Ciclo 1 - Grupo 40,FP-C1-P1-40,73
+247,Fundamentos de Programación - Ciclo 1 - Grupo 41,FP-C1-P1-41,72
+248,Fundamentos de Programación - Ciclo 1 - Grupo 42,FP-C1-P1-42,72
+249,Fundamentos de Programación - Ciclo 1 - Grupo 43,FP-C1-P1-43,71
+250,Fundamentos de Programación - Ciclo 1 - Grupo 44,FP-C1-P1-44,72
+251,Fundamentos de Programación - Ciclo 1 - Grupo 45,FP-C1-P1-45,72
+252,Fundamentos de Programación - Ciclo 1 - Grupo 46,FP-C1-P1-46,61
+253,Fundamentos de Programación - Ciclo 1 - Grupo 47,FP-C1-P1-47,61
+254,Fundamentos de Programación - Ciclo 1 - Grupo 48,FP-C1-P1-48,58
+255,Fundamentos de Programación - Ciclo 1 - Grupo 49,FP-C1-P1-49,71
+256,Fundamentos de Programación - Ciclo 1 - Grupo 50,FP-C1-P1-50,72
+257,Fundamentos de Programación - Ciclo 1 - Grupo 51,FP-C1-P1-51,72
+258,Fundamentos de Programación - Ciclo 1 - Grupo 52,FP-C1-P1-52,71
+259,Fundamentos de Programación - Ciclo 1 - Grupo 53,FP-C1-P1-53,72
+260,Fundamentos de Programación - Ciclo 1 - Grupo 54,FP-C1-P1-54,59
+261,Fundamentos de Programación - Ciclo 1 - Grupo 55,FP-C1-P1-55,72
+262,Fundamentos de Programación - Ciclo 1 - Grupo 56,FP-C1-P1-56,64
+263,Fundamentos de Programación - Ciclo 1 - Grupo 57,FP-C1-P1-57,58
+264,Fundamentos de Programación - Ciclo 1 - Grupo 58,FP-C1-P1-58,71
+265,Fundamentos de Programación - Ciclo 1 - Grupo 59,FP-C1-P1-59,72
+266,Fundamentos de Programación - Ciclo 1 - Grupo 60,FP-C1-P1-60,72
+267,Fundamentos de Programación - Ciclo 1 - Grupo 61,FP-C1-P1-61,71
+268,Fundamentos de Programación - Ciclo 1 - Grupo 62,FP-C1-P1-62,71
+269,Fundamentos de Programación - Ciclo 1 - Grupo 63,FP-C1-P1-63,72
+270,Fundamentos de Programación - Ciclo 1 - Grupo 64,FP-C1-P1-64,72
+271,Fundamentos de Programación - Ciclo 1 - Grupo 65,FP-C1-P1-65,72
+272,Fundamentos de Programación - Ciclo 1 - Grupo 66,FP-C1-P1-66,72
+273,Fundamentos de Programación - Ciclo 1 - Grupo 67,FP-C1-P1-67,65
+274,Fundamentos de Programación - Ciclo 1 - Grupo 68,FP-C1-P1-68,72
+275,Fundamentos de Programación - Ciclo 1 - Grupo 69,FP-C1-P1-69,64
+276,Fundamentos de Programación - Ciclo 1 - Grupo 70,FP-C1-P1-70,72
+277,Fundamentos de Programación - Ciclo 1 - Grupo 71,FP-C1-P1-71,72
+278,Fundamentos de Programación - Ciclo 1 - Grupo 72,FP-C1-P1-72,60
+279,Fundamentos de Programación - Ciclo 1 - Grupo 73,FP-C1-P1-73,61
+280,Fundamentos de Programación - Ciclo 1 - Grupo 74,FP-C1-P1-74,62
+281,Fundamentos de Programación - Ciclo 1 - Grupo 75,FP-C1-P1-75,72
+282,Fundamentos de Programación - Ciclo 1 - Grupo 76,FP-C1-P1-76,72
+283,Fundamentos de Programación - Ciclo 1 - Grupo 77,FP-C1-P1-77,71
+284,Fundamentos de Programación - Ciclo 1 - Grupo 78,FP-C1-P1-78,72
+285,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 1,CO-C1-P1-1,72
+286,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 2,CO-C1-P1-2,72
+287,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 3,CO-C1-P1-3,72
+288,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 4,CO-C1-P1-4,72
+289,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 5,CO-C1-P1-5,72
+290,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 6,CO-C1-P1-6,71
+291,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 7,CO-C1-P1-7,72
+292,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 8,CO-C1-P1-8,68
+293,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 9,CO-C1-P1-9,72
+294,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 10,CO-C1-P1-10,69
+295,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 11,CO-C1-P1-11,72
+296,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 12,CO-C1-P1-12,71
+297,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 13,CO-C1-P1-13,72
+298,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 14,CO-C1-P1-14,69
+299,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 15,CO-C1-P1-15,69
+300,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 16,CO-C1-P1-16,71
+301,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 17,CO-C1-P1-17,72
+302,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 18,CO-C1-P1-18,72
+303,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 19,CO-C1-P1-19,72
+304,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 20,CO-C1-P1-20,68
+305,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 21,CO-C1-P1-21,68
+306,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 22,CO-C1-P1-22,71
+307,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 23,CO-C1-P1-23,72
+308,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 24,CO-C1-P1-24,72
+309,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 25,CO-C1-P1-25,72
+310,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 26,CO-C1-P1-26,71
+311,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 27,CO-C1-P1-27,72
+312,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 28,CO-C1-P1-28,72
+313,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 29,CO-C1-P1-29,69
+314,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 30,CO-C1-P1-30,72
+315,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 31,CO-C1-P1-31,72
+316,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 32,CO-C1-P1-32,72
+317,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 33,CO-C1-P1-33,72
+318,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 34,CO-C1-P1-34,72
+319,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 35,CO-C1-P1-35,68
+320,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 36,CO-C1-P1-36,68
+321,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 37,CO-C1-P1-37,72
+322,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 38,CO-C1-P1-38,73
+323,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 39,CO-C1-P1-39,72
+324,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 40,CO-C1-P1-40,71
+325,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 41,CO-C1-P1-41,68
+326,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 42,CO-C1-P1-42,68
+327,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 43,CO-C1-P1-43,72
+328,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 44,CO-C1-P1-44,72
+329,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 45,CO-C1-P1-45,72
+330,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 46,CO-C1-P1-46,72
+331,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 47,CO-C1-P1-47,67
+332,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 48,CO-C1-P1-48,69
+333,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 49,CO-C1-P1-49,72
+334,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 50,CO-C1-P1-50,72
+335,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 51,CO-C1-P1-51,72
+336,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 52,CO-C1-P1-52,72
+337,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 53,CO-C1-P1-53,72
+338,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 54,CO-C1-P1-54,72
+339,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 55,CO-C1-P1-55,69
+340,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 56,CO-C1-P1-56,69
+341,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 57,CO-C1-P1-57,71
+342,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 58,CO-C1-P1-58,72
+343,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 59,CO-C1-P1-59,72
+344,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 60,CO-C1-P1-60,72
+345,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 61,CO-C1-P1-61,68
+346,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 62,CO-C1-P1-62,72
+347,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 63,CO-C1-P1-63,72
+348,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 64,CO-C1-P1-64,72
+349,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 65,CO-C1-P1-65,72
+350,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 66,CO-C1-P1-66,72
+351,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 67,CO-C1-P1-67,68
+352,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 68,CO-C1-P1-68,72
+353,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 69,CO-C1-P1-69,72
+354,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 70,CO-C1-P1-70,72
+355,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 71,CO-C1-P1-71,72
+356,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 72,CO-C1-P1-72,72
+357,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 73,CO-C1-P1-73,69
+358,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 74,CO-C1-P1-74,71
+359,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 75,CO-C1-P1-75,72
+360,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 76,CO-C1-P1-76,72
+361,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 77,CO-C1-P1-77,72
+362,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 78,CO-C1-P1-78,72
+363,Programación Básica - Ciclo 2 - Grupo 1,PB-C2-P1-1,54
+364,Habilidades Personales e Inserción Laboral - Ciclo 2 - Grupo 60,CO-C2-P1-60,54
+365,Inglés - Ciclo 2 - Grupo 1,IN-C2-P1-1,54
+366,Desarrollo de Software - Ciclo3 - Grupo 1,DS-C3-P1-1,4
+367,Habilidades Personales e Inserción Laboral - Ciclo 3 - Grupo 34,CO-C3-P1-34,4
+368,Inglés - Ciclo 3 - Grupo 1,IN-C3-P1-1,4
+369,Fundamentos de Programación - Ciclo 1 - Aula Base Tutores,FP-C1-P1-ABT,18
+370,Curso de Peuebas,CP,2
+372,Desarrollo de Software - Ciclo 3 - Aula Base Tutores,DS-C3-P1-ABT,1
+373,Aula de tutorías - 1 - Ciclo 1,AT-C1-P1-1,378
+374,Aula de tutorías - 2 - Ciclo 1,AT-C1-P1-2,420
+375,Aula de tutorías - 3 - Ciclo 1,AT-C1-P1-3,396
+376,Aula de tutorías - 4 - Ciclo 1,AT-C1-P1-4,420
+377,Aula de tutorías - 5 - Ciclo 1,AT-C1-P1-5,396
+378,Aula de tutorías - 6 - Ciclo 1,AT-C1-P1-6,392
+379,Aula de tutorías - 7 - Ciclo 1,AT-C1-P1-7,408
+380,Aula de tutorías - 8 - Ciclo 1,AT-C1-P1-8,384
+381,Aula de tutorías - 9 - Ciclo 1,AT-C1-P1-9,406
+382,Aula de tutorías - 10 - Ciclo 1,AT-C1-P1-10,398
+383,Aula de tutorías - 11 - Ciclo 1,AT-C1-P1-11,419
+384,Aula de tutorías - 12 - Ciclo 1,AT-C1-P1-12,394
+385,Aula de tutorías - 13 - Ciclo 1,AT-C1-P1-13,401
+386,Aula de tutorías  General - 1 - Ciclo 1,ATG-C1-P1-1,2729
+387,Aula de tutorías  General - 2 - Ciclo 1,ATG-C1-P1-2,2648
+388,Aula de tutorías - 1 - Ciclo 2,AT-C2-P1-1,54
+389,Aula de tutorías - 1 - Ciclo 3,AT-C3-P1-1,4
+390,Inglés - Ciclo 1 - Grupo 79,IN-C1-P1-79,29
+391,Inglés - Ciclo 1 - Grupo 80,IN-C1-P1-80,40
+392,Inglés - Ciclo 1 - Grupo 81,IN-C1-P1-81,25
+393,Inglés - Ciclo 1 - Grupo 82,IN-C1-P1-82,25
+394,Inglés - Ciclo 1 - Grupo 83,IN-C1-P1-83,31
+395,Fundamentos de Programación - Ciclo 1 - Grupo 79,FP-C1-P1-79,34
+396,Fundamentos de Programación - Ciclo 1 - Grupo 80,FP-C1-P1-80,68
+397,Fundamentos de Programación - Ciclo 1 - Grupo 81,FP-C1-P1-81,37
+398,Fundamentos de Programación - Ciclo 1 - Grupo 82,FP-C1-P1-82,35
+399,Fundamentos de Programación - Ciclo 1 - Grupo 83,FP-C1-P1-83,32
+400,Aula de tutorías - 14 - Ciclo 1,AT-C1-P1-14,194
+401,Aula Base Orientadores Psicosociales Grupales,AB-OPG-2022,4
+402,Aula Base Orientadores Psicosociales Grupales,AB-OPG-C2-2022,4
+403, Aula Base Orientadores Psicosociales Grupales,AB-OPG-C3-2022,4
+404,Orientación Psicosocial Grupal - Ciclo 1 - Grupo (1  - 109 y 546),OPG-C1-P1-1,1097
+405,Orientación Psicosocial Grupal - Ciclo 1 - Grupo (110 - 218 y 547),OPG-C1-P1-2,1099
+406,Orientación Psicosocial Grupal - Ciclo 1 - Grupo (219 - 327),OPG-C1-P1-3,1089
+407,Orientación Psicosocial Grupal - Ciclo 1 - Grupo (328 - 436 y 548),OPG-C1-P1-4,1033
+408,Orientación Psicosocial Grupal - Ciclo 1 - Grupo (438 - 545 y 549),OPG-C1-P1-5,1070
+409,Orientación Psicosocial Grupal - Ciclo 2 - Grupo (329  - 334),OPG-C2-P1-1,54
+410,Orientación Psicosocial Grupal - Ciclo 3 - Grupo 437,OPG-C3-P1-1,4
+411,Aula Base Orientadores Psicosociales Grupales,AB-OPG-C4-2022,5
+412,Fundamentos de Programación - Ciclo 1 - Grupo 84,FP-C1-P1A-84,39
+413,Inglés - Ciclo 1 - Grupo 84,IN-C1-P1A-84,39
+414,Habilidades Personales e Inserción Laboral - Ciclo 1 - Grupo 61A,CO-C1-P1A-61,39
+415,Aula de tutorías - 15 - Ciclo 1,AT-C1-P1A-15,38
+416,Aula Especializada de Refuerzo,FP-C1-P1R-1,590
+417,Aula Especializada de Refuerzo,FP-C1-P1R-2,669
+418,Aula Especializada de Refuerzo,FP-C1-P1R-3,426
+419,Aula Especializada de Refuerzo en Inglés,IN-C1-P1R-1,626
+571,Aula General de Refuerzos,GAR-C1-P1R,5420
+572,Inglés - Ciclo 2 - P2 - Grupo 1,IN-C2-P2-1,72
+573,Programación Básica - Ciclo 2 - P2 - Grupo 1,PB-C2-P2-1,74
+574,Coach - Ciclo 2 - P2 - Grupo 1,CO-C2-P2-1,70
+575,Coach - Ciclo 2 - P2 - Grupo 2,CO-C2-P2-2,72
+576,Inglés - Ciclo 2 - P2 - Grupo 2,IN-C2-P2-2,72
+577,Inglés - Ciclo 2 - P2 - Grupo 3,IN-C2-P2-3,71
+578,Inglés - Ciclo 2 - P2 - Grupo 4,IN-C2-P2-4,72
+579,Inglés - Ciclo 2 - P2 - Grupo 5,IN-C2-P2-5,60
+580,Inglés - Ciclo 2 - P2 - Grupo 6,IN-C2-P2-6,63
+581,Inglés - Ciclo 2 - P2 - Grupo 7,IN-C2-P2-7,66
+582,Inglés - Ciclo 2 - P2 - Grupo 8,IN-C2-P2-8,68
+583,Inglés - Ciclo 2 - P2 - Grupo 9,IN-C2-P2-9,61
+584,Inglés - Ciclo 2 - P2 - Grupo 10,IN-C2-P2-10,72
+585,Inglés - Ciclo 2 - P2 - Grupo 11,IN-C2-P2-11,60
+586,Inglés - Ciclo 2 - P2 - Grupo 12,IN-C2-P2-12,71
+587,Inglés - Ciclo 2 - P2 - Grupo 13,IN-C2-P2-13,70
+588,Inglés - Ciclo 2 - P2 - Grupo 14,IN-C2-P2-14,68
+589,Inglés - Ciclo 2 - P2 - Grupo 15,IN-C2-P2-15,72
+590,Inglés - Ciclo 2 - P2 - Grupo 16,IN-C2-P2-16,70
+591,Inglés - Ciclo 2 - P2 - Grupo 17,IN-C2-P2-17,71
+592,Inglés - Ciclo 2 - P2 - Grupo 18,IN-C2-P2-18,66
+593,Inglés - Ciclo 2 - P2 - Grupo 19,IN-C2-P2-19,70
+594,Inglés - Ciclo 2 - P2 - Grupo 20,IN-C2-P2-20,72
+595,Inglés - Ciclo 2 - P2 - Grupo 21,IN-C2-P2-21,64
+596,Inglés - Ciclo 2 - P2 - Grupo 22,IN-C2-P2-22,70
+597,Inglés - Ciclo 2 - P2 - Grupo 23,IN-C2-P2-23,69
+598,Inglés - Ciclo 2 - P2 - Grupo 24,IN-C2-P2-24,65
+599,Inglés - Ciclo 2 - P2 - Grupo 25,IN-C2-P2-25,62
+600,Inglés - Ciclo 2 - P2 - Grupo 26,IN-C2-P2-26,68
+601,Inglés - Ciclo 2 - P2 - Grupo 27,IN-C2-P2-27,58
+602,Inglés - Ciclo 2 - P2 - Grupo 28,IN-C2-P2-28,71
+603,Inglés - Ciclo 2 - P2 - Grupo 29,IN-C2-P2-29,63
+604,Inglés - Ciclo 2 - P2 - Grupo 30,IN-C2-P2-30,72
+605,Inglés - Ciclo 2 - P2 - Grupo 31,IN-C2-P2-31,72
+606,Inglés - Ciclo 2 - P2 - Grupo 32,IN-C2-P2-32,71
+607,Inglés - Ciclo 2 - P2 - Grupo 33,IN-C2-P2-33,68
+608,Inglés - Ciclo 2 - P2 - Grupo 34,IN-C2-P2-34,58
+609,Inglés - Ciclo 2 - P2 - Grupo 35,IN-C2-P2-35,60
+610,Inglés - Ciclo 2 - P2 - Grupo 36,IN-C2-P2-36,67
+611,Inglés - Ciclo 2 - P2 - Grupo 37,IN-C2-P2-37,72
+612,Inglés - Ciclo 2 - P2 - Grupo 38,IN-C2-P2-38,63
+613,Inglés - Ciclo 2 - P2 - Grupo 39,IN-C2-P2-39,58
+614,Inglés - Ciclo 2 - P2 - Grupo 40,IN-C2-P2-40,69
+615,Inglés - Ciclo 2 - P2 - Grupo 41,IN-C2-P2-41,65
+616,Inglés - Ciclo 2 - P2 - Grupo 42,IN-C2-P2-42,57
+617,Inglés - Ciclo 2 - P2 - Grupo 43,IN-C2-P2-43,58
+618,Inglés - Ciclo 2 - P2 - Grupo 44,IN-C2-P2-44,65
+619,Inglés - Ciclo 2 - P2 - Grupo 45,IN-C2-P2-45,72
+620,Inglés - Ciclo 2 - P2 - Grupo 46,IN-C2-P2-46,57
+621,Inglés - Ciclo 2 - P2 - Grupo 47,IN-C2-P2-47,62
+622,Inglés - Ciclo 2 - P2 - Grupo 48,IN-C2-P2-48,64
+623,Inglés - Ciclo 2 - P2 - Grupo 49,IN-C2-P2-49,67
+624,Inglés - Ciclo 2 - P2 - Grupo 50,IN-C2-P2-50,60
+625,Inglés - Ciclo 2 - P2 - Grupo 51,IN-C2-P2-51,60
+626,Inglés - Ciclo 2 - P2 - Grupo 52,IN-C2-P2-52,63
+627,Inglés - Ciclo 2 - P2 - Grupo 53,IN-C2-P2-53,72
+628,Inglés - Ciclo 2 - P2 - Grupo 54,IN-C2-P2-54,68
+629,Inglés - Ciclo 2 - P2 - Grupo 55,IN-C2-P2-55,59
+630,Inglés - Ciclo 2 - P2 - Grupo 56,IN-C2-P2-56,70
+631,Inglés - Ciclo 2 - P2 - Grupo 57,IN-C2-P2-57,66
+632,Inglés - Ciclo 2 - P2 - Grupo 58,IN-C2-P2-58,65
+633,Inglés - Ciclo 2 - P2 - Grupo 59,IN-C2-P2-59,66
+634,Inglés - Ciclo 2 - P2 - Grupo 60,IN-C2-P2-60,72
+635,Inglés - Ciclo 2 - P2 - Grupo 61,IN-C2-P2-61,58
+636,Inglés - Ciclo 2 - P2 - Grupo 62,IN-C2-P2-62,60
+637,Inglés - Ciclo 2 - P2 - Grupo 63,IN-C2-P2-63,57
+638,Inglés - Ciclo 2 - P2 - Grupo 64,IN-C2-P2-64,69
+639,Inglés - Ciclo 2 - P2 - Grupo 65,IN-C2-P2-65,62
+640,Inglés - Ciclo 2 - P2 - Grupo 66,IN-C2-P2-66,68
+641,Inglés - Ciclo 2 - P2 - Grupo 67,IN-C2-P2-67,72
+642,Inglés - Ciclo 2 - P2 - Grupo 68,IN-C2-P2-68,59
+643,Inglés - Ciclo 2 - P2 - Grupo 69,IN-C2-P2-69,67
+644,Inglés - Ciclo 2 - P2 - Grupo 70,IN-C2-P2-70,67
+645,Inglés - Ciclo 2 - P2 - Grupo 71,IN-C2-P2-71,66
+646,Inglés - Ciclo 2 - P2 - Grupo 72,IN-C2-P2-72,68
+647,Inglés - Ciclo 2 - P2 - Grupo 73,IN-C2-P2-73,70
+648,Coach - Ciclo 2 - P2 - Grupo 3,CO-C2-P2-3,70
+649,Inglés - Ciclo 2 - P2 - Grupo 74,IN-C2-P2-74,72
+650,Coach - Ciclo 2 - P2 - Grupo 4,CO-C2-P2-4,72
+651,Coach - Ciclo 2 - P2 - Grupo 5,CO-C2-P2-5,70
+652,Coach - Ciclo 2 - P2 - Grupo 6,CO-C2-P2-6,72
+653,Inglés - Ciclo 2 - P2 - Grupo 75,IN-C2-P2-75,65
+654,Programación Básica - Ciclo 2 - P2 - Grupo 2,PB-C2-P2-2,62
+655,Coach - Ciclo 2 - P2 - Grupo 7,CO-C2-P2-7,70
+656,Coach - Ciclo 2 - P2 - Grupo 8,CO-C2-P2-8,69
+657,Inglés - Ciclo 2 - P2 - Grupo 76,IN-C2-P2-76,63
+658,Coach - Ciclo 2 - P2 - Grupo 9,CO-C2-P2-9,71
+659,Coach - Ciclo 2 - P2 - Grupo 10,CO-C2-P2-10,70
+660,Inglés - Ciclo 2 - P2 - Grupo 77,IN-C2-P2-77,62
+661,Coach - Ciclo 2 - P2 - Grupo 11,CO-C2-P2-11,69
+662,Coach - Ciclo 2 - P2 - Grupo 12,CO-C2-P2-12,72
+663,Coach - Ciclo 2 - P2 - Grupo 13,CO-C2-P2-13,70
+664,Inglés - Ciclo 2 - P2 - Grupo 78,IN-C2-P2-78,61
+665,Coach - Ciclo 2 - P2 - Grupo 14,CO-C2-P2-14,70
+666,Coach - Ciclo 2 - P2 - Grupo 15,CO-C2-P2-15,69
+667,Inglés - Ciclo 2 - P2 - Grupo 79,IN-C2-P2-79,61
+668,Coach - Ciclo 2 - P2 - Grupo 16,CO-C2-P2-16,70
+669,Programación Básica - Ciclo 2 - P2 - Grupo 3,PB-C2-P2-3,71
+670,Coach - Ciclo 2 - P2 - Grupo 17,CO-C2-P2-17,70
+671,Inglés - Ciclo 2 - P2 - Grupo 80,IN-C2-P2-80,68
+672,Coach - Ciclo 2 - P2 - Grupo 18,CO-C2-P2-18,72
+673,Coach - Ciclo 2 - P2 - Grupo 19,CO-C2-P2-19,71
+674,Coach - Ciclo 2 - P2 - Grupo 20,CO-C2-P2-20,70
+675,Inglés - Ciclo 2 - P2 - Grupo 81,IN-C2-P2-81,66
+676,Coach - Ciclo 2 - P2 - Grupo 21,CO-C2-P2-21,69
+677,Coach - Ciclo 2 - P2 - Grupo 22,CO-C2-P2-22,69
+678,Inglés - Ciclo 2 - P2 - Grupo 82,IN-C2-P2-82,62
+679,Coach - Ciclo 2 - P2 - Grupo 23,CO-C2-P2-23,70
+680,Coach - Ciclo 2 - P2 - Grupo 24,CO-C2-P2-24,72
+681,Inglés - Ciclo 2 - P2 - Grupo 83,IN-C2-P2-83,59
+682,Coach - Ciclo 2 - P2 - Grupo 25,CO-C2-P2-25,70
+683,Programación Básica - Ciclo 2 - P2 - Grupo 4,PB-C2-P2-4,60
+684,Coach - Ciclo 2 - P2 - Grupo 26,CO-C2-P2-26,70
+685,Coach - Ciclo 2 - P2 - Grupo 27,CO-C2-P2-27,72
+686,Coach - Ciclo 2 - P2 - Grupo 28,CO-C2-P2-28,70
+687,Coach - Ciclo 2 - P2 - Grupo 29,CO-C2-P2-29,70
+688,Coach - Ciclo 2 - P2 - Grupo 30,CO-C2-P2-30,70
+689,Coach - Ciclo 2 - P2 - Grupo 31,CO-C2-P2-31,70
+690,Coach - Ciclo 2 - P2 - Grupo 32,CO-C2-P2-32,72
+691,Coach - Ciclo 2 - P2 - Grupo 33,CO-C2-P2-33,71
+692,Coach - Ciclo 2 - P2 - Grupo 34,CO-C2-P2-34,72
+693,Programación Básica - Ciclo 2 - P2 - Grupo 5,PB-C2-P2-5,65
+694,Coach - Ciclo 2 - P2 - Grupo 35,CO-C2-P2-35,70
+695,Coach - Ciclo 2 - P2 - Grupo 36,CO-C2-P2-36,70
+696,Coach - Ciclo 2 - P2 - Grupo 37,CO-C2-P2-37,71
+697,Coach - Ciclo 2 - P2 - Grupo 38,CO-C2-P2-38,72
+698,Coach - Ciclo 2 - P2 - Grupo 39,CO-C2-P2-39,70
+699,Coach - Ciclo 2 - P2 - Grupo 40,CO-C2-P2-40,68
+700,Coach - Ciclo 2 - P2 - Grupo 41,CO-C2-P2-41,69
+701,Coach - Ciclo 2 - P2 - Grupo 42,CO-C2-P2-42,71
+702,Coach - Ciclo 2 - P2 - Grupo 43,CO-C2-P2-43,71
+703,Programación Básica - Ciclo 2 - P2 - Grupo 6,PB-C2-P2-6,72
+704,Coach - Ciclo 2 - P2 - Grupo 44,CO-C2-P2-44,72
+705,Coach - Ciclo 2 - P2 - Grupo 45,CO-C2-P2-45,70
+706,Coach - Ciclo 2 - P2 - Grupo 46,CO-C2-P2-46,72
+707,Coach - Ciclo 2 - P2 - Grupo 47,CO-C2-P2-47,68
+708,Coach - Ciclo 2 - P2 - Grupo 48,CO-C2-P2-48,71
+709,Coach - Ciclo 2 - P2 - Grupo 49,CO-C2-P2-49,70
+710,Coach - Ciclo 2 - P2 - Grupo 50,CO-C2-P2-50,71
+711,Coach - Ciclo 2 - P2 - Grupo 51,CO-C2-P2-51,70
+712,Coach - Ciclo 2 - P2 - Grupo 52,CO-C2-P2-52,69
+713,Coach - Ciclo 2 - P2 - Grupo 53,CO-C2-P2-53,70
+714,Programación Básica - Ciclo 2 - P2 - Grupo 7,PB-C2-P2-7,66
+715,Coach - Ciclo 2 - P2 - Grupo 54,CO-C2-P2-54,72
+716,Coach - Ciclo 2 - P2 - Grupo 55,CO-C2-P2-55,70
+717,Coach - Ciclo 2 - P2 - Grupo 56,CO-C2-P2-56,71
+718,Coach - Ciclo 2 - P2 - Grupo 57,CO-C2-P2-57,72
+719,Coach - Ciclo 2 - P2 - Grupo 58,CO-C2-P2-58,72
+720,Coach - Ciclo 2 - P2 - Grupo 59,CO-C2-P2-59,71
+721,Coach - Ciclo 2 - P2 - Grupo 60,CO-C2-P2-60,71
+722,Coach - Ciclo 2 - P2 - Grupo 61,CO-C2-P2-61,69
+723,Coach - Ciclo 2 - P2 - Grupo 62,CO-C2-P2-62,72
+724,Programación Básica - Ciclo 2 - P2 - Grupo 8,PB-C2-P2-8,72
+725,Coach - Ciclo 2 - P2 - Grupo 63,CO-C2-P2-63,70
+726,Coach - Ciclo 2 - P2 - Grupo 64,CO-C2-P2-64,72
+727,Coach - Ciclo 2 - P2 - Grupo 65,CO-C2-P2-65,72
+728,Coach - Ciclo 2 - P2 - Grupo 66,CO-C2-P2-66,71
+729,Coach - Ciclo 2 - P2 - Grupo 67,CO-C2-P2-67,69
+730,Coach - Ciclo 2 - P2 - Grupo 68,CO-C2-P2-68,71
+731,Coach - Ciclo 2 - P2 - Grupo 69,CO-C2-P2-69,72
+732,Coach - Ciclo 2 - P2 - Grupo 70,CO-C2-P2-70,72
+733,Coach - Ciclo 2 - P2 - Grupo 71,CO-C2-P2-71,72
+734,Coach - Ciclo 2 - P2 - Grupo 72,CO-C2-P2-72,71
+735,Programación Básica - Ciclo 2 - P2 - Grupo 9,PB-C2-P2-9,69
+736,Coach - Ciclo 2 - P2 - Grupo 73,CO-C2-P2-73,68
+737,Coach - Ciclo 2 - P2 - Grupo 74,CO-C2-P2-74,72
+738,Coach - Ciclo 2 - P2 - Grupo 75,CO-C2-P2-75,72
+739,Coach - Ciclo 2 - P2 - Grupo 76,CO-C2-P2-76,71
+740,Coach - Ciclo 2 - P2 - Grupo 77,CO-C2-P2-77,71
+741,Coach - Ciclo 2 - P2 - Grupo 78,CO-C2-P2-78,69
+742,Programación Básica - Ciclo 2 - P2 - Grupo 10,PB-C2-P2-10,72
+743,Programación Básica - Ciclo 2 - P2 - Grupo 11,PB-C2-P2-11,71
+744,Programación Básica - Ciclo 2 - P2 - Grupo 12,PB-C2-P2-12,72
+745,Programación Básica - Ciclo 2 - P2 - Grupo 13,PB-C2-P2-13,70
+746,Programación Básica - Ciclo 2 - P2 - Grupo 14,PB-C2-P2-14,67
+747,Programación Básica - Ciclo 2 - P2 - Grupo 15,PB-C2-P2-15,54
+748,Programación Básica - Ciclo 2 - P2 - Grupo 16,PB-C2-P2-16,60
+749,Programación Básica - Ciclo 2 - P2 - Grupo 17,PB-C2-P2-17,59
+750,Programación Básica - Ciclo 2 - P2 - Grupo 18,PB-C2-P2-18,72
+751,Programación Básica - Ciclo 2 - P2 - Grupo 19,PB-C2-P2-19,72
+752,Programación Básica - Ciclo 2 - P2 - Grupo 20,PB-C2-P2-20,61
+753,Programación Básica - Ciclo 2 - P2 - Grupo 21,PB-C2-P2-21,66
+754,Programación Básica - Ciclo 2 - P2 - Grupo 22,PB-C2-P2-22,70
+755,Programación Básica - Ciclo 2 - P2 - Grupo 23,PB-C2-P2-23,72
+756,Programación Básica - Ciclo 2 - P2 - Grupo 24,PB-C2-P2-24,69
+757,Programación Básica - Ciclo 2 - P2 - Grupo 25,PB-C2-P2-25,64
+758,Programación Básica - Ciclo 2 - P2 - Grupo 26,PB-C2-P2-26,70
+759,Programación Básica - Ciclo 2 - P2 - Grupo 27,PB-C2-P2-27,62
+760,Programación Básica - Ciclo 2 - P2 - Grupo 28,PB-C2-P2-28,65
+761,Programación Básica - Ciclo 2 - P2 - Grupo 29,PB-C2-P2-29,59
+762,Programación Básica - Ciclo 2 - P2 - Grupo 30,PB-C2-P2-30,63
+763,Programación Básica - Ciclo 2 - P2 - Grupo 31,PB-C2-P2-31,53
+764,Inglés - Ciclo 2 - P2 - Grupo 84,IN-C2-P2-84,61
+765,Programación Básica - Ciclo 2 - P2 - Grupo 32,PB-C2-P2-32,55
+766,Programación Básica - Ciclo 2 - P2 - Grupo 33,PB-C2-P2-33,60
+767,Programación Básica - Ciclo 2 - P2 - Grupo 34,PB-C2-P2-34,62
+768,Programación Básica - Ciclo 2 - P2 - Grupo 35,PB-C2-P2-35,72
+769,Programación Básica - Ciclo 2 - P2 - Grupo 36,PB-C2-P2-36,72
+770,Programación Básica - Ciclo 2 - P2 - Grupo 37,PB-C2-P2-37,53
+771,Programación Básica - Ciclo 2 - P2 - Grupo 38,PB-C2-P2-38,67
+772,Programación Básica - Ciclo 2 - P2 - Grupo 39,PB-C2-P2-39,71
+773,Programación Básica - Ciclo 2 - P2 - Grupo 40,PB-C2-P2-40,72
+774,Programación Básica - Ciclo 2 - P2 - Grupo 41,PB-C2-P2-41,64
+775,Programación Básica - Ciclo 2 - P2 - Grupo 42,PB-C2-P2-42,72
+776,Programación Básica - Ciclo 2 - P2 - Grupo 43,PB-C2-P2-43,67
+777,Programación Básica - Ciclo 2 - P2 - Grupo 44,PB-C2-P2-44,70
+778,Programación Básica - Ciclo 2 - P2 - Grupo 45,PB-C2-P2-45,72
+779,Programación Básica - Ciclo 2 - P2 - Grupo 46,PB-C2-P2-46,61
+780,Programación Básica - Ciclo 2 - P2 - Grupo 47,PB-C2-P2-47,59
+781,Programación Básica - Ciclo 2 - P2 - Grupo 48,PB-C2-P2-48,59
+782,Programación Básica - Ciclo 2 - P2 - Grupo 49,PB-C2-P2-49,65
+783,Programación Básica - Ciclo 2 - P2 - Grupo 50,PB-C2-P2-50,71
+784,Programación Básica - Ciclo 2 - P2 - Grupo 51,PB-C2-P2-51,71
+785,Programación Básica - Ciclo 2 - P2 - Grupo 52,PB-C2-P2-52,66
+786,Programación Básica - Ciclo 2 - P2 - Grupo 53,PB-C2-P2-53,71
+787,Programación Básica - Ciclo 2 - P2 - Grupo 54,PB-C2-P2-54,55
+788,Programación Básica - Ciclo 2 - P2 - Grupo 55,PB-C2-P2-55,72
+789,Programación Básica - Ciclo 2 - P2 - Grupo 56,PB-C2-P2-56,55
+790,Programación Básica - Ciclo 2 - P2 - Grupo 57,PB-C2-P2-57,56
+791,Programación Básica - Ciclo 2 - P2 - Grupo 58,PB-C2-P2-58,63
+792,Programación Básica - Ciclo 2 - P2 - Grupo 59,PB-C2-P2-59,72
+793,Programación Básica - Ciclo 2 - P2 - Grupo 60,PB-C2-P2-60,72
+794,Programación Básica - Ciclo 2 - P2 - Grupo 61,PB-C2-P2-61,67
+795,Programación Básica - Ciclo 2 - P2 - Grupo 62,PB-C2-P2-62,71
+796,Programación Básica - Ciclo 2 - P2 - Grupo 63,PB-C2-P2-63,71
+797,Programación Básica - Ciclo 2 - P2 - Grupo 64,PB-C2-P2-64,63
+798,Programación Básica - Ciclo 2 - P2 - Grupo 65,PB-C2-P2-65,72
+799,Programación Básica - Ciclo 2 - P2 - Grupo 66,PB-C2-P2-66,72
+800,Programación Básica - Ciclo 2 - P2 - Grupo 67,PB-C2-P2-67,63
+801,Programación Básica - Ciclo 2 - P2 - Grupo 68,PB-C2-P2-68,70
+802,Programación Básica - Ciclo 2 - P2 - Grupo 69,PB-C2-P2-69,55
+803,Programación Básica - Ciclo 2 - P2 - Grupo 70,PB-C2-P2-70,71
+804,Programación Básica - Ciclo 2 - P2 - Grupo 71,PB-C2-P2-71,72
+805,Programación Básica - Ciclo 2 - P2 - Grupo 72,PB-C2-P2-72,54
+806,Programación Básica - Ciclo 2 - P2 - Grupo 73,PB-C2-P2-73,60
+807,Programación Básica - Ciclo 2 - P2 - Grupo 74,PB-C2-P2-74,55
+808,Programación Básica - Ciclo 2 - P2 - Grupo 75,PB-C2-P2-75,71
+809,Programación Básica - Ciclo 2 - P2 - Grupo 76,PB-C2-P2-76,72
+810,Programación Básica - Ciclo 2 - P2 - Grupo 77,PB-C2-P2-77,59
+811,Programación Básica - Ciclo 2 - P2 - Grupo 78,PB-C2-P2-78,72
+812,Programación Básica - Ciclo 2 - P2 - Grupo 79,PB-C2-P2-79,58
+813,Programación Básica - Ciclo 2 - P2 - Grupo 80,PB-C2-P2-80,71
+814,Programación Básica - Ciclo 2 - P2 - Grupo 81,PB-C2-P2-81,71
+815,Programación Básica - Ciclo 2 - P2 - Grupo 82,PB-C2-P2-82,56
+816,Programación Básica - Ciclo 2 - P2 - Grupo 83,PB-C2-P2-83,59
+817,Programación Básica - Ciclo 2 - P2 - Grupo 84,PB-C2-P2-84,65
+822,Coach - Ciclo 3 - P2 - Grupo 1,CO-C3-P2-1,54
+824,Desarrollo de Software - Ciclo 3 - P2 - Grupo 1,DS-C3-P2-1,55
+825,Coach - Ciclo 4 - P2 - Grupo 1,CO-C4-P2-1,5
+827,Desarrollo de Aplicaciones Web - Ciclo 4A - P2 - Grupo 1,DAW-C4A-P2-1,6
+829,Orientación Psicosocial Grupal - Ciclo 4 - P2 - Grupo 1,OPG-C4-P2-1,4
+830,Orientación Psicosocial Grupal - Ciclo 3 - P2 - Grupos (1 al 6),OPG-C3-P2-1,53
+831,Orientación Psicosocial Grupal - Ciclo 2 - P2 - Grupos (1 al 109),OPG-C2-P2-1,1091
+832,Orientación Psicosocial Grupal - Ciclo 2 - P2 - Grupos (110 al 218),OPG-C2-P2-2,1091
+833,Orientación Psicosocial Grupal - Ciclo 2 - P2 - Grupos (219 al 327),OPG-C2-P2-3,1091
+834,Orientación Psicosocial Grupal - Ciclo 2 - P2 - Grupos (328 al 430),OPG-C2-P2-4,1031
+835,Orientación Psicosocial Grupal - Ciclo 2 - P2 - Grupos (431 al 537),OPG-C2-P2-5,1051
+836,Programación Básica - Ciclo 2 - P2 - Aula Base Tutores,PB-C2-P2-ABT,16
+837,Desarrollo de Software - Ciclo 3 - P2 - Aula Base Tutores,DS-C3-P2-ABT,1
+838,Desarrollo de Aplicaciones WEB - Ciclo 4A - P2 - Aula Base Tutores,DAW-C4-P2-ABT,1
+839,Aula de tutorías - Ciclo 2 - P2 - 1,AT-C2-P2-1,391
+840,Aula de tutorías - Ciclo 2 - P2 - 2,AT-C2-P2-2,411
+841,Aula de tutorías - Ciclo 2 - P2 - 3,AT-C2-P2-3,370
+842,Aula de tutorías - Ciclo 2 - P2 - 4,AT-C2-P2-4,399
+843,Aula de tutorías - Ciclo 2 - P2 - 5,AT-C2-P2-5,372
+844,Aula de tutorías - Ciclo 2 - P2 - 6,AT-C2-P2-6,363
+845,Aula de tutorías - Ciclo 2 - P2 - 7,AT-C2-P2-7,388
+846,Aula de tutorías - Ciclo 2 - P2 - 8,AT-C2-P2-8,377
+847,Aula de tutorías - Ciclo 2 - P2 - 9,AT-C2-P2-9,388
+848,Aula de tutorías - Ciclo 2 - P2 - 10,AT-C2-P2-10,379
+849,Aula de tutorías - Ciclo 2 - P2 - 11,AT-C2-P2-11,405
+850,Aula de tutorías - Ciclo 2 - P2 - 12,AT-C2-P2-12,375
+851,Aula de tutorías - Ciclo 2 - P2 - 13,AT-C2-P2-13,378
+852,Aula de tutorías - Ciclo 2 - P2 - 14,AT-C2-P2-14,369
+853,Aula de tutorías General - Ciclo 2 - P2 - 1,ATG-C2-P2-1,2689
+854,Aula de tutorías General - Ciclo 2 - P2 - 2,ATG-C2-P2-2,2664
+855,Aula de tutorías - Ciclo 3 - P2 - 1,AT-C3-P2-1,53
+856,Aula de tutorías - Ciclo 4A - P2 - 1,AT-C4A-P2-1,4
+858,Inglés - Ciclo 3 - P2 - Grupo 1,IN-C3-P2-1,54
+859,Inglés - Ciclo 4 - P2 - Grupo 1,IN-C4-P2-1,5
+862,Habilitación Fundamentos de Programación - Ciclo 1 - P1 - Grupo 1,FP-C1-P1H-1,2274
+863,Habilitación Programación Básica - Ciclo 2 - P1 - Grupo 1,PB-C2-P1H-1,16
+864,Habilitación Inglés - Ciclo 1 - P1 - Grupo 1,IN-C1-P1H-1,1726
+868, Aula Especializada de Refuerzo - Segunda Etapa - C2 - G1,PB-C2-P2R-1,5353
+869,Aula Especializada de Refuerzo - Segunda Etapa - C2 - G2,PB-C2-P2R-2,5352
+870,Aula Especializada de Refuerzo - Segunda Etapa - C2 - G3,PB-C2-P2R-3,5352
+871,Desarrollo de Software - Ciclo 3 - P3 - Grupo 1,DS-C3-P3-1,62
+872,Inglés - Ciclo 3 - P3 - Grupo 1,IN-C3-P3-1,53
+873,Coach - Ciclo 3 - P3 - Grupo 1,CO-C3-P3-1,71
+874,Orientación Psicosocial Grupal - Ciclo 3 - P3 - Grupos (1 al 111),OPG-C3-P3-1,1111
+875,Orientación Psicosocial Grupal - Ciclo 3 - P3 - Grupos (112 al 222),OPG-C3-P3-2,1107
+876,Orientación Psicosocial Grupal - Ciclo 3 - P3 - Grupos (223 al 333),OPG-C3-P3-3,1107
+877,Orientación Psicosocial Grupal - Ciclo 3 - P3 - Grupos (334 al 420),OPG-C3-P3-4,870
+878,Orientación Psicosocial Grupal - Ciclo 3 - P2 - Grupos (421 al 490),OPG-C3-P3-5,699
+879,Orientación Psicosocial Grupal - Ciclo 4 - P3 - Grupos (1 al 5),OPG-C4-P3-1,46
+880,Inglés - Ciclo 4 - P3 - Grupo 1,IN-C4-P3-1,46
+881,Coach - Ciclo 4 - P3 - Grupo 1,CO-C4-P3-1,46
+882,Desarrollo de Aplicaciones Web - Ciclo 4A - P3 - Grupo 1,DAW-C4A-P3-1,47
+883,Coach - Ciclo 3 - P3 - Grupo 2,CO-C3-P3-2,71
+884,Coach - Ciclo 3 - P3 - Grupo 3,CO-C3-P3-3,71
+885,Coach - Ciclo 3 - P3 - Grupo 4,CO-C3-P3-4,53
+886,Coach - Ciclo 3 - P3 - Grupo 5,CO-C3-P3-5,71
+887,Coach - Ciclo 3 - P3 - Grupo 6,CO-C3-P3-6,71
+888,Coach - Ciclo 3 - P3 - Grupo 7,CO-C3-P3-7,71
+889,Coach - Ciclo 3 - P3 - Grupo 8,CO-C3-P3-8,53
+890,Coach - Ciclo 3 - P3 - Grupo 9,CO-C3-P3-9,53
+891,Coach - Ciclo 3 - P3 - Grupo 10,CO-C3-P3-10,71
+892,Coach - Ciclo 3 - P3 - Grupo 11,CO-C3-P3-11,71
+893,Coach - Ciclo 3 - P3 - Grupo 12,CO-C3-P3-12,71
+894,Coach - Ciclo 3 - P3 - Grupo 13,CO-C3-P3-13,71
+895,Coach - Ciclo 3 - P3 - Grupo 14,CO-C3-P3-14,53
+897,Coach - Ciclo 3 - P3 - Grupo 16,CO-C3-P3-16,57
+898,Coach - Ciclo 3 - P3 - Grupo 17,CO-C3-P3-17,71
+899,Coach - Ciclo 3 - P3 - Grupo 18,CO-C3-P3-18,71
+900,Coach - Ciclo 3 - P3 - Grupo 19,CO-C3-P3-19,71
+901,Coach - Ciclo 3 - P3 - Grupo 20,CO-C3-P3-20,71
+902,Coach - Ciclo 3 - P3 - Grupo 21,CO-C3-P3-21,71
+903,Coach - Ciclo 3 - P3 - Grupo 22,CO-C3-P3-22,54
+904,Coach - Ciclo 3 - P3 - Grupo 23,CO-C3-P3-23,71
+905,Coach - Ciclo 3 - P3 - Grupo 24,CO-C3-P3-24,71
+908,Coach - Ciclo 3 - P3 - Grupo 27,CO-C3-P3-27,71
+909,Coach - Ciclo 3 - P3 - Grupo 28,CO-C3-P3-28,71
+910,Coach - Ciclo 3 - P3 - Grupo 29,CO-C3-P3-29,71
+911,Coach - Ciclo 3 - P3 - Grupo 30,CO-C3-P3-30,72
+912,Coach - Ciclo 3 - P3 - Grupo 31,CO-C3-P3-31,71
+913,Coach - Ciclo 3 - P3 - Grupo 32,CO-C3-P3-32,71
+914,Coach - Ciclo 3 - P3 - Grupo 33,CO-C3-P3-33,71
+915,Coach - Ciclo 3 - P3 - Grupo 34,CO-C3-P3-34,71
+917,Coach - Ciclo 3 - P3 - Grupo 36,CO-C3-P3-36,71
+918,Coach - Ciclo 3 - P3 - Grupo 37,CO-C3-P3-37,71
+919,Coach - Ciclo 3 - P3 - Grupo 38,CO-C3-P3-38,71
+920,Coach - Ciclo 3 - P3 - Grupo 39,CO-C3-P3-39,71
+921,Coach - Ciclo 3 - P3 - Grupo 40,CO-C3-P3-40,71
+922,Coach - Ciclo 3 - P3 - Grupo 41,CO-C3-P3-41,71
+923,Coach - Ciclo 3 - P3 - Grupo 42,CO-C3-P3-42,71
+924,Coach - Ciclo 3 - P3 - Grupo 43,CO-C3-P3-43,71
+925,Coach - Ciclo 3 - P3 - Grupo 44,CO-C3-P3-44,71
+926,Coach - Ciclo 3 - P3 - Grupo 45,CO-C3-P3-45,71
+927,Coach - Ciclo 3 - P3 - Grupo 46,CO-C3-P3-46,71
+928,Coach - Ciclo 3 - P3 - Grupo 47,CO-C3-P3-47,71
+929,Coach - Ciclo 3 - P3 - Grupo 48,CO-C3-P3-48,71
+930,Coach - Ciclo 3 - P3 - Grupo 49,CO-C3-P3-49,71
+931,Coach - Ciclo 3 - P3 - Grupo 50,CO-C3-P3-50,71
+932,Coach - Ciclo 3 - P3 - Grupo 51,CO-C3-P3-51,71
+933,Coach - Ciclo 3 - P3 - Grupo 52,CO-C3-P3-52,71
+934,Coach - Ciclo 3 - P3 - Grupo 53,CO-C3-P3-53,71
+935,Coach - Ciclo 3 - P3 - Grupo 54,CO-C3-P3-54,53
+936,Coach - Ciclo 3 - P3 - Grupo 55,CO-C3-P3-55,71
+937,Coach - Ciclo 3 - P3 - Grupo 56,CO-C3-P3-56,71
+938,Coach - Ciclo 3 - P3 - Grupo 57,CO-C3-P3-57,55
+939,Coach - Ciclo 3 - P3 - Grupo 58,CO-C3-P3-58,60
+940,Coach - Ciclo 3 - P3 - Grupo 59,CO-C3-P3-59,71
+941,Coach - Ciclo 3 - P3 - Grupo 60,CO-C3-P3-60,71
+942,Coach - Ciclo 3 - P3 - Grupo 61,CO-C3-P3-61,71
+943,Coach - Ciclo 3 - P3 - Grupo 62,CO-C3-P3-62,50
+944,Coach - Ciclo 3 - P3 - Grupo 63,CO-C3-P3-63,52
+945,Coach - Ciclo 3 - P3 - Grupo 64,CO-C3-P3-64,51
+946,Coach - Ciclo 3 - P3 - Grupo 65,CO-C3-P3-65,71
+947,Coach - Ciclo 3 - P3 - Grupo 66,CO-C3-P3-66,71
+948,Coach - Ciclo 3 - P3 - Grupo 67,CO-C3-P3-67,71
+949,Coach - Ciclo 3 - P3 - Grupo 68,CO-C3-P3-68,47
+950,Coach - Ciclo 3 - P3 - Grupo 69,CO-C3-P3-69,54
+951,Coach - Ciclo 3 - P3 - Grupo 70,CO-C3-P3-70,54
+952,Coach - Ciclo 3 - P3 - Grupo 71,CO-C3-P3-71,71
+953,Coach - Ciclo 3 - P3 - Grupo 72,CO-C3-P3-72,71
+954,Coach - Ciclo 3 - P3 - Grupo 73,CO-C3-P3-73,71
+955,Coach - Ciclo 3 - P3 - Grupo 74,CO-C3-P3-74,56
+956,Coach - Ciclo 3 - P3 - Grupo 75,CO-C3-P3-75,60
+957,Coach - Ciclo 3 - P3 - Grupo 76,CO-C3-P3-76,71
+958,Coach - Ciclo 3 - P3 - Grupo 77,CO-C3-P3-77,71
+959,Coach - Ciclo 3 - P3 - Grupo 78,CO-C3-P3-78,71
+960,Inglés - Ciclo 3 - P3 - Grupo 2,IN-C3-P3-2,50
+961,Inglés - Ciclo 3 - P3 - Grupo 3,IN-C3-P3-3,71
+962,Inglés - Ciclo 3 - P3 - Grupo 4,IN-C3-P3-4,53
+963,Inglés - Ciclo 3 - P3 - Grupo 5,IN-C3-P3-5,50
+964,Inglés - Ciclo 3 - P3 - Grupo 6,IN-C3-P3-6,71
+965,Inglés - Ciclo 3 - P3 - Grupo 7,IN-C3-P3-7,71
+966,Inglés - Ciclo 3 - P3 - Grupo 8,IN-C3-P3-8,71
+967,Inglés - Ciclo 3 - P3 - Grupo 9,IN-C3-P3-9,71
+968,Inglés - Ciclo 3 - P3 - Grupo 10,IN-C3-P3-10,71
+969,Inglés - Ciclo 3 - P3 - Grupo 11,IN-C3-P3-11,71
+970,Inglés - Ciclo 3 - P3 - Grupo 12,IN-C3-P3-12,71
+971,Inglés - Ciclo 3 - P3 - Grupo 13,IN-C3-P3-13,71
+972,Inglés - Ciclo 3 - P3 - Grupo 14,IN-C3-P3-14,72
+973,Inglés - Ciclo 3 - P3 - Grupo 15,IN-C3-P3-15,59
+974,Inglés - Ciclo 3 - P3 - Grupo 16,IN-C3-P3-16,71
+975,Inglés - Ciclo 3 - P3 - Grupo 17,IN-C3-P3-17,71
+976,Inglés - Ciclo 3 - P3 - Grupo 18,IN-C3-P3-18,71
+977,Inglés - Ciclo 3 - P3 - Grupo 19,IN-C3-P3-19,71
+978,Inglés - Ciclo 3 - P3 - Grupo 20,IN-C3-P3-20,70
+979,Inglés - Ciclo 3 - P3 - Grupo 21,IN-C3-P3-21,71
+980,Inglés - Ciclo 3 - P3 - Grupo 22,IN-C3-P3-22,49
+981,Inglés - Ciclo 3 - P3 - Grupo 23,IN-C3-P3-23,71
+982,Inglés - Ciclo 3 - P3 - Grupo 24,IN-C3-P3-24,70
+983,Inglés - Ciclo 3 - P3 - Grupo 25,IN-C3-P3-25,71
+984,Inglés - Ciclo 3 - P3 - Grupo 26,IN-C3-P3-26,71
+985,Inglés - Ciclo 3 - P3 - Grupo 27,IN-C3-P3-27,71
+986,Inglés - Ciclo 3 - P3 - Grupo 28,IN-C3-P3-28,49
+987,Inglés - Ciclo 3 - P3 - Grupo 29,IN-C3-P3-29,71
+988,Inglés - Ciclo 3 - P3 - Grupo 30,IN-C3-P3-30,50
+989,Inglés - Ciclo 3 - P3 - Grupo 31,IN-C3-P3-31,49
+990,Inglés - Ciclo 3 - P3 - Grupo 32,IN-C3-P3-32,71
+991,Inglés - Ciclo 3 - P3 - Grupo 33,IN-C3-P3-33,71
+993,Inglés - Ciclo 3 - P3 - Grupo 35,IN-C3-P3-35,71
+994,Inglés - Ciclo 3 - P3 - Grupo 36,IN-C3-P3-36,71
+995,Inglés - Ciclo 3 - P3 - Grupo 37,IN-C3-P3-37,71
+998,Inglés - Ciclo 3 - P3 - Grupo 40,IN-C3-P3-40,51
+999,Inglés - Ciclo 3 - P3 - Grupo 41,IN-C3-P3-41,71
+1000,Inglés - Ciclo 3 - P3 - Grupo 42,IN-C3-P3-42,71
+1002,Inglés - Ciclo 3 - P3 - Grupo 44,IN-C3-P3-44,56
+1003,Inglés - Ciclo 3 - P3 - Grupo 45,IN-C3-P3-45,71
+1004,Inglés - Ciclo 3 - P3 - Grupo 46,IN-C3-P3-46,71
+1005,Inglés - Ciclo 3 - P3 - Grupo 47,IN-C3-P3-47,71
+1006,Inglés - Ciclo 3 - P3 - Grupo 48,IN-C3-P3-48,71
+1007,Inglés - Ciclo 3 - P3 - Grupo 49,IN-C3-P3-49,71
+1008,Inglés - Ciclo 3 - P3 - Grupo 50,IN-C3-P3-50,71
+1009,Inglés - Ciclo 3 - P3 - Grupo 51,IN-C3-P3-51,71
+1010,Inglés - Ciclo 3 - P3 - Grupo 52,IN-C3-P3-52,71
+1011,Inglés - Ciclo 3 - P3 - Grupo 53,IN-C3-P3-53,52
+1012,Inglés - Ciclo 3 - P3 - Grupo 54,IN-C3-P3-54,71
+1013,Inglés - Ciclo 3 - P3 - Grupo 55,IN-C3-P3-55,71
+1014,Inglés - Ciclo 3 - P3 - Grupo 56,IN-C3-P3-56,71
+1015,Inglés - Ciclo 3 - P3 - Grupo 57,IN-C3-P3-57,71
+1016,Inglés - Ciclo 3 - P3 - Grupo 58,IN-C3-P3-58,71
+1017,Inglés - Ciclo 3 - P3 - Grupo 59,IN-C3-P3-59,71
+1018,Inglés - Ciclo 3 - P3 - Grupo 60,IN-C3-P3-60,51
+1020,Inglés - Ciclo 3 - P3 - Grupo 62,IN-C3-P3-62,52
+1022,Inglés - Ciclo 3 - P3 - Grupo 64,IN-C3-P3-64,71
+1023,Inglés - Ciclo 3 - P3 - Grupo 65,IN-C3-P3-65,71
+1024,Inglés - Ciclo 3 - P3 - Grupo 66,IN-C3-P3-66,71
+1025,Inglés - Ciclo 3 - P3 - Grupo 67,IN-C3-P3-67,71
+1027,Inglés - Ciclo 3 - P3 - Grupo 69,IN-C3-P3-69,71
+1028,Inglés - Ciclo 3 - P3 - Grupo 70,IN-C3-P3-70,71
+1029,Inglés - Ciclo 3 - P3 - Grupo 71,IN-C3-P3-71,71
+1030,Inglés - Ciclo 3 - P3 - Grupo 72,IN-C3-P3-72,71
+1031,Inglés - Ciclo 3 - P3 - Grupo 73,IN-C3-P3-73,71
+1032,Inglés - Ciclo 3 - P3 - Grupo 74,IN-C3-P3-74,71
+1033,Inglés - Ciclo 3 - P3 - Grupo 75,IN-C3-P3-75,71
+1034,Inglés - Ciclo 3 - P3 - Grupo 76,IN-C3-P3-76,72
+1037,Inglés - Ciclo 3 - P3 - Grupo 79,IN-C3-P3-79,71
+1038,Inglés - Ciclo 3 - P3 - Grupo 80,IN-C3-P3-80,71
+1039,Inglés - Ciclo 3 - P3 - Grupo 81,IN-C3-P3-81,51
+1040,Inglés - Ciclo 3 - P3 - Grupo 82,IN-C3-P3-82,71
+1042,Inglés - Ciclo 3 - P3 - Grupo 84,IN-C3-P3-84,71
+1043,Desarrollo de Software - Ciclo 3 - P3 - Grupo 2,DS-C3-P3-2,60
+1044,Desarrollo de Software - Ciclo 3 - P3 - Grupo 3,DS-C3-P3-3,52
+1045,Desarrollo de Software - Ciclo 3 - P3 - Grupo 4,DS-C3-P3-4,71
+1046,Desarrollo de Software - Ciclo 3 - P3 - Grupo 5,DS-C3-P3-5,71
+1047,Desarrollo de Software - Ciclo 3 - P3 - Grupo 6,DS-C3-P3-6,57
+1048,Desarrollo de Software - Ciclo 3 - P3 - Grupo 7,DS-C3-P3-7,71
+1049,Desarrollo de Software - Ciclo 3 - P3 - Grupo 8,DS-C3-P3-8,56
+1050,Desarrollo de Software - Ciclo 3 - P3 - Grupo 9,DS-C3-P3-9,71
+1051,Desarrollo de Software - Ciclo 3 - P3 - Grupo 10,DS-C3-P3-10,54
+1052,Desarrollo de Software - Ciclo 3 - P3 - Grupo 11,DS-C3-P3-11,71
+1053,Desarrollo de Software - Ciclo 3 - P3 - Grupo 12,DS-C3-P3-12,64
+1054,Desarrollo de Software - Ciclo 3 - P3 - Grupo 13,DS-C3-P3-13,71
+1055,Desarrollo de Software - Ciclo 3 - P3 - Grupo 14,DS-C3-P3-14,71
+1057,Desarrollo de Software - Ciclo 3 - P3 - Grupo 16,DS-C3-P3-16,71
+1058,Desarrollo de Software - Ciclo 3 - P3 - Grupo 17,DS-C3-P3-17,52
+1059,Desarrollo de Software - Ciclo 3 - P3 - Grupo 18,DS-C3-P3-18,53
+1060,Desarrollo de Software - Ciclo 3 - P3 - Grupo 19,DS-C3-P3-19,71
+1061,Desarrollo de Software - Ciclo 3 - P3 - Grupo 20,DS-C3-P3-20,71
+1062,Desarrollo de Software - Ciclo 3 - P3 - Grupo 21,DS-C3-P3-21,71
+1063,Desarrollo de Software - Ciclo 3 - P3 - Grupo 22,DS-C3-P3-22,71
+1064,Desarrollo de Software - Ciclo 3 - P3 - Grupo 23,DS-C3-P3-23,70
+1065,Desarrollo de Software - Ciclo 3 - P3 - Grupo 24,DS-C3-P3-24,71
+1066,Desarrollo de Software - Ciclo 3 - P3 - Grupo 25,DS-C3-P3-25,71
+1067,Desarrollo de Software - Ciclo 3 - P3 - Grupo 26,DS-C3-P3-26,55
+1068,Desarrollo de Software - Ciclo 3 - P3 - Grupo 27,DS-C3-P3-27,71
+1069,Desarrollo de Software - Ciclo 3 - P3 - Grupo 28,DS-C3-P3-28,71
+1070,Desarrollo de Software - Ciclo 3 - P3 - Grupo 29,DS-C3-P3-29,71
+1071,Desarrollo de Software - Ciclo 3 - P3 - Grupo 30,DS-C3-P3-30,71
+1074,Desarrollo de Software - Ciclo 3 - P3 - Grupo 33,DS-C3-P3-33,71
+1075,Desarrollo de Software - Ciclo 3 - P3 - Grupo 34,DS-C3-P3-34,71
+1076,Desarrollo de Software - Ciclo 3 - P3 - Grupo 35,DS-C3-P3-35,71
+1077,Desarrollo de Software - Ciclo 3 - P3 - Grupo 36,DS-C3-P3-36,71
+1079,Desarrollo de Software - Ciclo 3 - P3 - Grupo 38,DS-C3-P3-38,71
+1080,Desarrollo de Software - Ciclo 3 - P3 - Grupo 39,DS-C3-P3-39,72
+1081,Desarrollo de Software - Ciclo 3 - P3 - Grupo 40,DS-C3-P3-40,72
+1082,Desarrollo de Software - Ciclo 3 - P3 - Grupo 41,DS-C3-P3-41,71
+1083,Desarrollo de Software - Ciclo 3 - P3 - Grupo 42,DS-C3-P3-42,71
+1084,Desarrollo de Software - Ciclo 3 - P3 - Grupo 43,DS-C3-P3-43,71
+1085,Desarrollo de Software - Ciclo 3 - P3 - Grupo 44,DS-C3-P3-44,53
+1086,Desarrollo de Software - Ciclo 3 - P3 - Grupo 45,DS-C3-P3-45,58
+1087,Desarrollo de Software - Ciclo 3 - P3 - Grupo 46,DS-C3-P3-46,71
+1088,Desarrollo de Software - Ciclo 3 - P3 - Grupo 47,DS-C3-P3-47,71
+1089,Desarrollo de Software - Ciclo 3 - P3 - Grupo 48,DS-C3-P3-48,71
+1090,Desarrollo de Software - Ciclo 3 - P3 - Grupo 49,DS-C3-P3-49,71
+1091,Desarrollo de Software - Ciclo 3 - P3 - Grupo 50,DS-C3-P3-50,71
+1092,Desarrollo de Software - Ciclo 3 - P3 - Grupo 51,DS-C3-P3-51,71
+1093,Desarrollo de Software - Ciclo 3 - P3 - Grupo 52,DS-C3-P3-52,71
+1094,Desarrollo de Software - Ciclo 3 - P3 - Grupo 53,DS-C3-P3-53,53
+1095,Desarrollo de Software - Ciclo 3 - P3 - Grupo 54,DS-C3-P3-54,71
+1096,Desarrollo de Software - Ciclo 3 - P3 - Grupo 55,DS-C3-P3-55,53
+1099,Desarrollo de Software - Ciclo 3 - P3 - Grupo 58,DS-C3-P3-58,71
+1100,Desarrollo de Software - Ciclo 3 - P3 - Grupo 59,DS-C3-P3-59,71
+1101,Desarrollo de Software - Ciclo 3 - P3 - Grupo 60,DS-C3-P3-60,52
+1102,Desarrollo de Software - Ciclo 3 - P3 - Grupo 61,DS-C3-P3-61,71
+1103,Desarrollo de Software - Ciclo 3 - P3 - Grupo 62,DS-C3-P3-62,71
+1104,Desarrollo de Software - Ciclo 3 - P3 - Grupo 63,DS-C3-P3-63,71
+1105,Desarrollo de Software - Ciclo 3 - P3 - Grupo 64,DS-C3-P3-64,71
+1106,Desarrollo de Software - Ciclo 3 - P3 - Grupo 65,DS-C3-P3-65,54
+1107,Desarrollo de Software - Ciclo 3 - P3 - Grupo 66,DS-C3-P3-66,71
+1108,Desarrollo de Software - Ciclo 3 - P3 - Grupo 67,DS-C3-P3-67,51
+1109,Desarrollo de Software - Ciclo 3 - P3 - Grupo 68,DS-C3-P3-68,72
+1111,Desarrollo de Software - Ciclo 3 - P3 - Grupo 70,DS-C3-P3-70,71
+1112,Desarrollo de Software - Ciclo 3 - P3 - Grupo 71,DS-C3-P3-71,71
+1114,Desarrollo de Software - Ciclo 3 - P3 - Grupo 73,DS-C3-P3-73,71
+1115,Desarrollo de Software - Ciclo 3 - P3 - Grupo 74,DS-C3-P3-74,71
+1116,Desarrollo de Software - Ciclo 3 - P3 - Grupo 75,DS-C3-P3-75,71
+1117,Desarrollo de Software - Ciclo 3 - P3 - Grupo 76,DS-C3-P3-76,51
+1118,Desarrollo de Software - Ciclo 3 - P3 - Grupo 77,DS-C3-P3-77,71
+1119,Desarrollo de Software - Ciclo 3 - P3 - Grupo 78,DS-C3-P3-78,71
+1121,Desarrollo de Software - Ciclo 3 - P3 - Grupo 80,DS-C3-P3-80,71
+1122,Desarrollo de Software - Ciclo 3 - P3 - Grupo 81,DS-C3-P3-81,71
+1124,Desarrollo de Software - Ciclo 3 - P3 - Grupo 83,DS-C3-P3-83,71
+1125,Desarrollo de Software - Ciclo 3 - P3 - Grupo 84,DS-C3-P3-84,71
+1126,Habilitación Programación Básica - Ciclo 2 - P2 - Grupo 1,PB-C2-P2H-1,2790
+1127,Aula de tutorías - Ciclo 4 - P3 - 1,AT-C4-P3-1,46
+1128,Desarrollo de Software - Ciclo 3 - P3 - Aula Base Tutores,DS-C3-P3-ABT,20
+1130,Aula de tutorías - Ciclo 3 - P3 - 1,AT-C3-P3-1,258
+1131,Aula de tutorías - Ciclo 3 - P3 - 2,AT-C3-P3-2,248
+1132,Aula de tutorías - Ciclo 3 - P3 - 3,AT-C3-P3-3,249
+1133,Aula de tutorías - Ciclo 3 - P3 - 4,AT-C3-P3-4,255
+1134,Aula de tutorías - Ciclo 3 - P3 - 5,AT-C3-P3-5,263
+1135,Aula de tutorías - Ciclo 3 - P3 - 6,AT-C3-P3-6,280
+1136,Aula de tutorías - Ciclo 3 - P3 - 7,AT-C3-P3-7,281
+1137,Aula de tutorías - Ciclo 3 - P3 - 8,AT-C3-P3-8,265
+1138,Aula de tutorías - Ciclo 3 - P3 - 9,AT-C3-P3-9,281
+1139,Aula de tutorías - Ciclo 3 - P3 - 10,AT-C3-P3-10,250
+1140,Aula de tutorías - Ciclo 3 - P3 - 11,AT-C3-P3-11,281
+1141,Aula de tutorías - Ciclo 3 - P3 - 12,AT-C3-P3-12,281
+1142,Aula de tutorías - Ciclo 3 - P3 - 13,AT-C3-P3-13,263
+1143,Habilitación Desarrollo de Software - Ciclo 3 - P2 - Grupo 1,DS-C3-P2H-1,11
+1145,Habilitación Inglés - Ciclo 2 - P2 - Grupo 1,IN-C2-P2H-1,2301
+1147,Habilitación Inglés - Ciclo 3 - P2 - Grupo 1,IN-C3-P2H-1,10
+1148,Aula de tutorías - Ciclo 3 - P3 - 14,AT-C3-P3-14,263
+1149,Aula de tutorías - Ciclo 3 - P3 - 15,AT-C3-P3-15,263
+1150,Aula de tutorías - Ciclo 3 - P3 - 16,AT-C3-P3-16,245
+1151,Aula de tutorías - Ciclo 3 - P3 - 17,AT-C3-P3-17,281
+1152,Aula de tutorías - Ciclo 3 - P3 - 18,AT-C3-P3-18,261
+1153,Aula de tutorías - Ciclo 3 - P3 - 19,AT-C3-P3-19,141
+1156,Aula Base de Nivelación solo programacion,ABN-P3-SP,2
+1160,Repositorio General de Autoestudio,RGA-P3,4941
+1166,Aula de Recuperación - Inglés,RI-P3,2187
+1167,Aula de Recuperación - Programación,RP-P3,2547
+1170,Información Beneficiarios,IB,31
+1171,Coach - Ciclo 4 - P4 - Grupo 1,CO-C4-P4-1,101
+1172,Desarrollo de Aplicaciones Móviles - Ciclo 4B - P4 - Grupo 5,DAM-C4B-P4-5,128
+1173,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 1,DAW-C4A-P4-1,77
+1174,Inglés - Ciclo 4 - P4 - Grupo 1,IN-C4-P4-1,43
+1175,Orientación Psicosocial Grupal - Ciclo 4 - P4 - Grupos (1 al 110),OPG-C4-P4-1,1016
+1176,Orientación Psicosocial Grupal - Ciclo 4 - P4 - Grupos (111 al 220),OPG-C4-P4-2,940
+1177,Orientación Psicosocial Grupal - Ciclo 4 - P4 - Grupos (221 al 330),OPG-C4-P4-3,981
+1178,Orientación Psicosocial Grupal - Ciclo 4 - P4 - Grupos (331 al 421),OPG-C4-P4-4,830
+1179,Orientación Psicosocial Grupal - Ciclo 4 - P4 - Grupos (422 al 489),OPG-C4-P4-5,621
+1180,Inglés - Ciclo 4 - P4 - Grupo 2,IN-C4-P4-2,71
+1181,Inglés - Ciclo 4 - P4 - Grupo 3,IN-C4-P4-3,32
+1182,Inglés - Ciclo 4 - P4 - Grupo 4,IN-C4-P4-4,34
+1183,Inglés - Ciclo 4 - P4 - Grupo 5,IN-C4-P4-5,71
+1184,Inglés - Ciclo 4 - P4 - Grupo 6,IN-C4-P4-6,29
+1185,Inglés - Ciclo 4 - P4 - Grupo 7,IN-C4-P4-7,32
+1186,Inglés - Ciclo 4 - P4 - Grupo 8,IN-C4-P4-8,30
+1187,Inglés - Ciclo 4 - P4 - Grupo 9,IN-C4-P4-9,71
+1188,Inglés - Ciclo 4 - P4 - Grupo 10,IN-C4-P4-10,71
+1189,Inglés - Ciclo 4 - P4 - Grupo 11,IN-C4-P4-11,71
+1190,Inglés - Ciclo 4 - P4 - Grupo 12,IN-C4-P4-12,71
+1191,Inglés - Ciclo 4 - P4 - Grupo 13,IN-C4-P4-13,71
+1192,Inglés - Ciclo 4 - P4 - Grupo 14,IN-C4-P4-14,70
+1193,Inglés - Ciclo 4 - P4 - Grupo 15,IN-C4-P4-15,71
+1194,Inglés - Ciclo 4 - P4 - Grupo 16,IN-C4-P4-16,71
+1195,Inglés - Ciclo 4 - P4 - Grupo 17,IN-C4-P4-17,31
+1196,Inglés - Ciclo 4 - P4 - Grupo 18,IN-C4-P4-18,30
+1197,Inglés - Ciclo 4 - P4 - Grupo 19,IN-C4-P4-19,29
+1198,Inglés - Ciclo 4 - P4 - Grupo 20,IN-C4-P4-20,36
+1199,Inglés - Ciclo 4 - P4 - Grupo 21,IN-C4-P4-21,29
+1200,Inglés - Ciclo 4 - P4 - Grupo 22,IN-C4-P4-22,29
+1201,Inglés - Ciclo 4 - P4 - Grupo 23,IN-C4-P4-23,71
+1202,Inglés - Ciclo 4 - P4 - Grupo 24,IN-C4-P4-24,30
+1203,Inglés - Ciclo 4 - P4 - Grupo 25,IN-C4-P4-25,71
+1204,Inglés - Ciclo 4 - P4 - Grupo 26,IN-C4-P4-26,71
+1205,Inglés - Ciclo 4 - P4 - Grupo 27,IN-C4-P4-27,71
+1206,Inglés - Ciclo 4 - P4 - Grupo 28,IN-C4-P4-28,71
+1207,Inglés - Ciclo 4 - P4 - Grupo 29,IN-C4-P4-29,71
+1208,Inglés - Ciclo 4 - P4 - Grupo 30,IN-C4-P4-30,71
+1209,Inglés - Ciclo 4 - P4 - Grupo 31,IN-C4-P4-31,71
+1210,Inglés - Ciclo 4 - P4 - Grupo 32,IN-C4-P4-32,71
+1211,Inglés - Ciclo 4 - P4 - Grupo 33,IN-C4-P4-33,71
+1212,Inglés - Ciclo 4 - P4 - Grupo 34,IN-C4-P4-34,71
+1213,Inglés - Ciclo 4 - P4 - Grupo 35,IN-C4-P4-35,71
+1214,Inglés - Ciclo 4 - P4 - Grupo 36,IN-C4-P4-36,71
+1215,Inglés - Ciclo 4 - P4 - Grupo 37,IN-C4-P4-37,71
+1216,Inglés - Ciclo 4 - P4 - Grupo 38,IN-C4-P4-38,71
+1217,Inglés - Ciclo 4 - P4 - Grupo 39,IN-C4-P4-39,71
+1218,Inglés - Ciclo 4 - P4 - Grupo 40,IN-C4-P4-40,71
+1219,Inglés - Ciclo 4 - P4 - Grupo 41,IN-C4-P4-41,71
+1220,Inglés - Ciclo 4 - P4 - Grupo 42,IN-C4-P4-42,71
+1221,Inglés - Ciclo 4 - P4 - Grupo 43,IN-C4-P4-43,69
+1222,Inglés - Ciclo 4 - P4 - Grupo 44,IN-C4-P4-44,71
+1223,Inglés - Ciclo 4 - P4 - Grupo 45,IN-C4-P4-45,71
+1224,Inglés - Ciclo 4 - P4 - Grupo 46,IN-C4-P4-46,71
+1225,Inglés - Ciclo 4 - P4 - Grupo 47,IN-C4-P4-47,71
+1226,Inglés - Ciclo 4 - P4 - Grupo 48,IN-C4-P4-48,71
+1227,Inglés - Ciclo 4 - P4 - Grupo 49,IN-C4-P4-49,71
+1228,Inglés - Ciclo 4 - P4 - Grupo 50,IN-C4-P4-50,69
+1229,Inglés - Ciclo 4 - P4 - Grupo 51,IN-C4-P4-51,72
+1230,Inglés - Ciclo 4 - P4 - Grupo 52,IN-C4-P4-52,71
+1231,Inglés - Ciclo 4 - P4 - Grupo 53,IN-C4-P4-53,71
+1232,Inglés - Ciclo 4 - P4 - Grupo 54,IN-C4-P4-54,71
+1233,Inglés - Ciclo 4 - P4 - Grupo 55,IN-C4-P4-55,71
+1234,Inglés - Ciclo 4 - P4 - Grupo 56,IN-C4-P4-56,71
+1235,Inglés - Ciclo 4 - P4 - Grupo 57,IN-C4-P4-57,71
+1236,Inglés - Ciclo 4 - P4 - Grupo 58,IN-C4-P4-58,71
+1237,Inglés - Ciclo 4 - P4 - Grupo 59,IN-C4-P4-59,71
+1238,Inglés - Ciclo 4 - P4 - Grupo 60,IN-C4-P4-60,71
+1239,Inglés - Ciclo 4 - P4 - Grupo 61,IN-C4-P4-61,71
+1240,Inglés - Ciclo 4 - P4 - Grupo 62,IN-C4-P4-62,71
+1241,Inglés - Ciclo 4 - P4 - Grupo 63,IN-C4-P4-63,71
+1242,Inglés - Ciclo 4 - P4 - Grupo 64,IN-C4-P4-64,71
+1243,Inglés - Ciclo 4 - P4 - Grupo 65,IN-C4-P4-65,71
+1244,Inglés - Ciclo 4 - P4 - Grupo 66,IN-C4-P4-66,70
+1245,Inglés - Ciclo 4 - P4 - Grupo 67,IN-C4-P4-67,70
+1246,Inglés - Ciclo 4 - P4 - Grupo 68,IN-C4-P4-68,70
+1247,Inglés - Ciclo 4 - P4 - Grupo 69,IN-C4-P4-69,70
+1248,Inglés - Ciclo 4 - P4 - Grupo 70,IN-C4-P4-70,71
+1253,Desarrollo de Aplicaciones Móviles - Ciclo 4B - P4 - Grupo 11,DAM-C4B-P4-11,120
+1254,Desarrollo de Aplicaciones Móviles - Ciclo 4B - P4 - Grupo 16,DAM-C4B-P4-16,137
+1255,Desarrollo de Aplicaciones Móviles - Ciclo 4B - P4 - Grupo 22,DAM-C4B-P4-22,136
+1256,Desarrollo de Aplicaciones Móviles - Ciclo 4B - P4 - Grupo 31,DAM-C4B-P4-31,135
+1258,Desarrollo de Aplicaciones Móviles - Ciclo 4B - P4 - Grupo 41,DAM-C4B-P4-41,160
+1259,Desarrollo de Aplicaciones Móviles - Ciclo 4B - P4 - Grupo 46,DAM-C4B-P4-46,138
+1261,Desarrollo de Aplicaciones Móviles - Ciclo 4B - P4 - Grupo 66,DAM-C4B-P4-66,209
+1264,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 2,DAW-C4A-P4-2,72
+1265,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 3,DAW-C4A-P4-3,72
+1266,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 4,DAW-C4A-P4-4,71
+1267,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 6,DAW-C4A-P4-6,76
+1268,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 7,DAW-C4A-P4-7,76
+1269,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 8,DAW-C4A-P4-8,72
+1270,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 9,DAW-C4A-P4-9,74
+1271,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 10,DAW-C4A-P4-10,72
+1272,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 12,DAW-C4A-P4-12,73
+1273,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 13,DAW-C4A-P4-13,80
+1274,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 14,DAW-C4A-P4-14,71
+1275,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 15,DAW-C4A-P4-15,76
+1276,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 17,DAW-C4A-P4-17,74
+1277,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 18,DAW-C4A-P4-18,74
+1278,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 19,DAW-C4A-P4-19,72
+1279,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 20,DAW-C4A-P4-20,81
+1280,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 21,DAW-C4A-P4-21,75
+1281,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 23,DAW-C4A-P4-23,78
+1282,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 24,DAW-C4A-P4-24,73
+1283,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 25,DAW-C4A-P4-25,73
+1284,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 26,DAW-C4A-P4-26,79
+1285,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 27,DAW-C4A-P4-27,73
+1286,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 28,DAW-C4A-P4-28,71
+1287,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 29,DAW-C4A-P4-29,74
+1288,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 30,DAW-C4A-P4-30,74
+1289,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 32,DAW-C4A-P4-32,74
+1290,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 33,DAW-C4A-P4-33,74
+1291,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 34,DAW-C4A-P4-34,75
+1292,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 35,DAW-C4A-P4-35,79
+1293,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 37,DAW-C4A-P4-37,33
+1294,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 38,DAW-C4A-P4-38,40
+1295,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 39,DAW-C4A-P4-39,31
+1296,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 40,DAW-C4A-P4-40,28
+1297,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 42,DAW-C4A-P4-42,39
+1298,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 43,DAW-C4A-P4-43,66
+1299,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 44,DAW-C4A-P4-44,32
+1300,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 45,DAW-C4A-P4-45,26
+1301,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 47,DAW-C4A-P4-47,77
+1302,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 48,DAW-C4A-P4-48,72
+1303,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 49,DAW-C4A-P4-49,76
+1304,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 50,DAW-C4A-P4-50,75
+1305,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 51,DAW-C4A-P4-51,82
+1306,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 52,DAW-C4A-P4-52,85
+1307,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 53,DAW-C4A-P4-53,80
+1308,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 54,DAW-C4A-P4-54,71
+1309,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 55,DAW-C4A-P4-55,81
+1310,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 56,DAW-C4A-P4-56,73
+1311,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 57,DAW-C4A-P4-57,78
+1312,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 58,DAW-C4A-P4-58,80
+1313,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 60,DAW-C4A-P4-60,73
+1314,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 61,DAW-C4A-P4-61,69
+1315,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 62,DAW-C4A-P4-62,42
+1316,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 63,DAW-C4A-P4-63,29
+1317,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 64,DAW-C4A-P4-64,35
+1318,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 65,DAW-C4A-P4-65,31
+1319,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 68,DAW-C4A-P4-68,41
+1320,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 69,DAW-C4A-P4-69,75
+1321,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 70,DAW-C4A-P4-70,77
+1322,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 67,DAW-C4A-P4-67,74
+1323,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 59,DAW-C4A-P4-59,73
+1324,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Grupo 36,DAW-C4A-P4-36,75
+1325,Coach - Ciclo 4 - P4 - Grupo 2,CO-C4-P4-2,101
+1326,Coach - Ciclo 4 - P4 - Grupo 3,CO-C4-P4-3,98
+1327,Coach - Ciclo 4 - P4 - Grupo 4,CO-C4-P4-4,101
+1328,Coach - Ciclo 4 - P4 - Grupo 5,CO-C4-P4-5,101
+1329,Coach - Ciclo 4 - P4 - Grupo 6,CO-C4-P4-6,52
+1330,Coach - Ciclo 4 - P4 - Grupo 7,CO-C4-P4-7,100
+1331,Coach - Ciclo 4 - P4 - Grupo 8,CO-C4-P4-8,101
+1332,Coach - Ciclo 4 - P4 - Grupo 9,CO-C4-P4-9,101
+1333,Coach - Ciclo 4 - P4 - Grupo 10,CO-C4-P4-10,59
+1334,Coach - Ciclo 4 - P4 - Grupo 11,CO-C4-P4-11,81
+1335,Coach - Ciclo 4 - P4 - Grupo 12,CO-C4-P4-12,101
+1336,Coach - Ciclo 4 - P4 - Grupo 13,CO-C4-P4-13,101
+1337,Coach - Ciclo 4 - P4 - Grupo 14,CO-C4-P4-14,101
+1338,Coach - Ciclo 4 - P4 - Grupo 15,CO-C4-P4-15,101
+1339,Coach - Ciclo 4 - P4 - Grupo 16,CO-C4-P4-16,100
+1340,Coach - Ciclo 4 - P4 - Grupo 17,CO-C4-P4-17,101
+1341,Coach - Ciclo 4 - P4 - Grupo 18,CO-C4-P4-18,101
+1342,Coach - Ciclo 4 - P4 - Grupo 19,CO-C4-P4-19,101
+1343,Coach - Ciclo 4 - P4 - Grupo 20,CO-C4-P4-20,101
+1344,Coach - Ciclo 4 - P4 - Grupo 21,CO-C4-P4-21,52
+1345,Coach - Ciclo 4 - P4 - Grupo 22,CO-C4-P4-22,55
+1346,Coach - Ciclo 4 - P4 - Grupo 23,CO-C4-P4-23,73
+1347,Coach - Ciclo 4 - P4 - Grupo 24,CO-C4-P4-24,57
+1348,Coach - Ciclo 4 - P4 - Grupo 25,CO-C4-P4-25,101
+1349,Coach - Ciclo 4 - P4 - Grupo 26,CO-C4-P4-26,48
+1350,Coach - Ciclo 4 - P4 - Grupo 27,CO-C4-P4-27,101
+1351,Coach - Ciclo 4 - P4 - Grupo 28,CO-C4-P4-28,101
+1352,Coach - Ciclo 4 - P4 - Grupo 29,CO-C4-P4-29,88
+1353,Coach - Ciclo 4 - P4 - Grupo 30,CO-C4-P4-30,48
+1354,Coach - Ciclo 4 - P4 - Grupo 31,CO-C4-P4-31,48
+1355,Coach - Ciclo 4 - P4 - Grupo 32,CO-C4-P4-32,101
+1356,Coach - Ciclo 4 - P4 - Grupo 33,CO-C4-P4-33,101
+1357,Coach - Ciclo 4 - P4 - Grupo 34,CO-C4-P4-34,101
+1358,Coach - Ciclo 4 - P4 - Grupo 35,CO-C4-P4-35,101
+1359,Coach - Ciclo 4 - P4 - Grupo 36,CO-C4-P4-36,102
+1360,Coach - Ciclo 4 - P4 - Grupo 37,CO-C4-P4-37,60
+1361,Coach - Ciclo 4 - P4 - Grupo 38,CO-C4-P4-38,101
+1362,Coach - Ciclo 4 - P4 - Grupo 39,CO-C4-P4-39,101
+1363,Coach - Ciclo 4 - P4 - Grupo 40,CO-C4-P4-40,101
+1364,Coach - Ciclo 4 - P4 - Grupo 41,CO-C4-P4-41,100
+1365,Coach - Ciclo 4 - P4 - Grupo 42,CO-C4-P4-42,100
+1366,Coach - Ciclo 4 - P4 - Grupo 43,CO-C4-P4-43,52
+1367,Coach - Ciclo 4 - P4 - Grupo 44,CO-C4-P4-44,101
+1368,Coach - Ciclo 4 - P4 - Grupo 45,CO-C4-P4-45,100
+1369,Coach - Ciclo 4 - P4 - Grupo 46,CO-C4-P4-46,101
+1370,Coach - Ciclo 4 - P4 - Grupo 47,CO-C4-P4-47,101
+1371,Coach - Ciclo 4 - P4 - Grupo 48,CO-C4-P4-48,100
+1372,Coach - Ciclo 4 - P4 - Grupo 49,CO-C4-P4-49,81
+1373,Coach - Ciclo 4 - P4 - Grupo 50,CO-C4-P4-50,52
+1375,Habilitación Desarrollo de Software - Ciclo 3 - P3 - Grupo 1,DS-C3-P3H-1,3068
+1376,Habilitación Inglés - Ciclo 3 - P3 - Grupo 1,IN-C3-P3H-1,2742
+1377,Desarrollo de Aplicaciones Móviles - Ciclo 4B - P4 - Aula Base Tutores,DAM-C4B-P4-ABT,6
+1378,Desarrollo de Aplicaciones Web - Ciclo 4A - P4 - Aula Base Tutores,DAW-C4A-P4-ABT,22
+1379,Aula de tutorías - Ciclo 4A - P4 - 1,AT-C4A-P4-1,282
+1380,Aula de tutorías - Ciclo 4A - P4 - 2,AT-C4A-P4-2,250
+1381,Aula de tutorías - Ciclo 4A - P4 - 3,AT-C4A-P4-3,245
+1382,Aula de tutorías - Ciclo 4A - P4 - 4,AT-C4A-P4-4,280
+1383,Aula de tutorías - Ciclo 4A - P4 - 5,AT-C4A-P4-5,239
+1384,Aula de tutorías - Ciclo 4A - P4 - 6,AT-C4A-P4-6,234
+1385,Aula de tutorías - Ciclo 4A - P4 - 7,AT-C4A-P4-7,279
+1386,Aula de tutorías - Ciclo 4A - P4 - 8,AT-C4A-P4-8,281
+1387,Aula de tutorías - Ciclo 4A - P4 - 9,AT-C4A-P4-9,244
+1388,Aula de tutorías - Ciclo 4A - P4 - 12,AT-C4A-P4-12,234
+1389,Aula de tutorías - Ciclo 4A - P4 - 13,AT-C4A-P4-13,236
+1390,Aula de tutorías - Ciclo 4A - P4 - 14,AT-C4A-P4-14,205
+1391,Aula de tutorías - Ciclo 4A - P4 - 15,AT-C4A-P4-15,236
+1392,Aula de tutorías - Ciclo 4A - P4 - 16,AT-C4A-P4-16,274
+1393,Aula de tutorías - Ciclo 4A - P4 - 17,AT-C4A-P4-17,232
+1394,Aula de tutorías - Ciclo 4A - P4 - 18,AT-C4A-P4-18,92
+1395,Aula de tutorías - Ciclo 4B - P4 - 10,AT-C4B-P4-10,281
+1396,Aula de tutorías - Ciclo 4B - P4 - 11,AT-C4B-P4-11,278
+1397,Aula de Consejerías - P4,AC-P4,4886
+1398,Aula de tutorías magistral - Ciclo 4 - P4,ATM-C4-P4,4885
+1399,Aula de tutorías transversal - Ciclo 4 - P4,ATT-C4-P4,4885
+1400,Aula Base Verificación - Fundamentos de Programación,ABVFP-C1-2022,1
+1401,Aula base Verificación - Java,ABVJ-C2-2022,1
+1402,Aula Base Verificación - Desarrollo de Software,ABVDS-C3-2022,1
+1403,Aula colaborativa expertos Misión TIC,ACE-Mintic,4391
+1404,Reto Extramotivacional,RE-P4,788
+1407,Tutoriales Workshops -  Programación Básica - Ciclo 2,TW-PB-C2-P4,461
+1410, Tutoriales Workshops - Desarrollo de Aplicaciones Web - Ciclo 4A,TW-DAW-C4A-P4,481
+1411,Tutoriales Workshops - Fundamentos de Programación - Ciclo 1,TW-FP-C1-P4,162
+1412,Tutoriales Workshops - DESARROLLO DE SOFTWARE - Ciclo 3,TW-DS-C3-P4,521
+1413,Tutoriales Workshops - Desarrollo de Aplicaciones Móviles - Ciclo 4B,TW-DAM-C4B-P4,128
+1414,Examen de Verificación - Ciclo 1 - Fundamentos de Programación,EV-F2-C1-P4,928
+1415,Examen de Verificación - Ciclo 2 - Programación Básica,EV-F2-C2-P4,1973
+1416,Examen de Verificación - Ciclo 3 - Desarrollo de Software,EV-F2-C3-P4,2287
+1417,Examen de Verificación - Ciclo 1 - Inglés,EVIN-F2-C1-P4,702
+1418,Examen de Verificación - Ciclo 2 - Inglés,EVIN-F2-C2-P4,1720
+1419,Examen de Verificación - Ciclo 3 - Inglés,EVIN-F2-C3-P4,2130
+1420,Examen Verificación - Ciclo 4A - Desarrollo de Aplicaciones WEB,EV-F2-C4A-P4,2477
+1421,Examen Verificación - Ciclo 4B - Desarrollo de Aplicaciones Móviles,EV-F2-C4B-P4,296
+1422,Examen de Verificación - Ciclo 4 - Inglés,EVIN-F2-C4-P4,2578
